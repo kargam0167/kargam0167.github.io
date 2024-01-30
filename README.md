@@ -2,7 +2,8 @@
 Social Networks Analysis, Consumer Behavior Analysis, Communities & Structures, Future of Work
 
 ## Education
-Applied Communication Science, Ph.D. 
+Applied Communication Science, Ph.D.
+Business Administration, Ms
 
 ## Publications
 [Social Media & Society: Digital Nomads and the Covid-19 Pandemic](https://journals.sagepub.com/doi/full/10.1177/20563051221084958)
