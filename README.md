@@ -1,5 +1,8 @@
 # Research Scientist
-Social Networks Analysis, Consumer Behavior Analysis, Communities & Structures, Future of Work
+Embracing Change, Seeking Growth, and Finding Harmony
+
+## Vision
+Experiences in different sectors of the industry, coupled with a strong analytical mindset, seek to re-enter the industry with a renewed vision.
 
 ## Education
 Applied Communication Science, Ph.D.
@@ -28,3 +31,4 @@ Keen on customer surveys, data-driven communication, target audiences
 -TXL AB, Stockholm
 Product Manager
 CRM solutions, customer support for Music retail sales systems, web administration
+
