@@ -3,7 +3,8 @@ Social Networks Analysis, Consumer Behavior Analysis, Communities & Structures, 
 
 ## Education
 Applied Communication Science, Ph.D.
-Business Administration, Ms
+
+Business Administration, MPhil.
 
 ## Publications
 [Social Media & Society: Digital Nomads and the Covid-19 Pandemic](https://journals.sagepub.com/doi/full/10.1177/20563051221084958)
