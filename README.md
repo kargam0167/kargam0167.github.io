@@ -1,26 +1,27 @@
 # Research Scientist
-# computer communication, online consumer behavior, research and development
+-Social networks analysis, consumer behavior analysis, online communities, future of work
 
 ## Education
-Communication Science,Ph.D. 
+Applied Communication Science, Ph.D. 
+
+## Publications
+[Social Media & Society: Digital Nomads and the Covid-19 Pandemic](https://journals.sagepub.com/doi/full/10.1177/20563051221084958)
+[First Monday: Community Identities Under Perturbation](https://firstmonday.org/ojs/index.php/fm/article/view/12725/10744)
 
 ## Experience
-###SAS (Scandinavian Airlines)",
+-SAS (Scandinavian Airlines) Stockholm
 Consumer Insights Analyst
-Working with analysis of large datasets and leveraging insights to multiple stakeholder.
-Keen on customer life cycle activities, A/B testing and scoring."
+Projects: Working with analysis of large datasets and leveraging insights to multiple stakeholders, customer life cycle activities, A/B testing, and scoring.
         
-###SAS Eurobonus,
+-SAS Eurobonus, Stockholm
 Key Account Manager, Loyalty & Partnerships,
-
-Working with leading brands such as American Express & MasterCard. 
-Keen on conducting business cases & revenue analysis of loyalty solutions
+Working with leading brands such as American Express & MasterCard, conducting business cases & revenue analysis of loyalty solutions
         
-###Nordnet Bank AB,
+-Nordnet Bank AB, Stockholm
 Consumer Insight Manager
 Working on customer retaining activities, customer life cycle, segmentation of the target markets, web campaigns and data analysis. 
-Keen on customer surveys, data driven communication, target audiences
+Keen on customer surveys, data-driven communication, target audiences
 
-###TXL AB
-Project Leader and System Developer
-Customer support retail sales systems, web administration and web development. Keen on learning basics of web development.
+-TXL AB, Stockholm
+Product Manager
+CRM solutions, customer support for Music retail sales systems, web administration
