@@ -1,5 +1,5 @@
 # Research Scientist
--Social networks analysis, consumer behavior analysis, online communities, future of work
+Social Networks Analysis, Consumer Behavior Analysis, Communities & Structures, Future of Work
 
 ## Education
 Applied Communication Science, Ph.D. 
