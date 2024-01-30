@@ -6,6 +6,7 @@ Applied Communication Science, Ph.D.
 
 ## Publications
 [Social Media & Society: Digital Nomads and the Covid-19 Pandemic](https://journals.sagepub.com/doi/full/10.1177/20563051221084958)
+
 [First Monday: Community Identities Under Perturbation](https://firstmonday.org/ojs/index.php/fm/article/view/12725/10744)
 
 ## Experience
