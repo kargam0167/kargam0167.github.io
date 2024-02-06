@@ -2,17 +2,19 @@
 layout: page
 title: About
 permalink: /about/
-image: '/images/01-1.jpg'
+image: '/images/03.jpg'
 ---
 
-Sin tantum est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum, empulla enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit. Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. Natura sic ab iis investigata est, ut nulla pars caelo, mari, terra, ut poëtice loquar, praetermissa sit. Eadem nunc mea adversum te oratio est. Mihi quidem Homerus huius modi quiddam vidisse videatur in iis, quae de Sirenum cantibus ages tandem finxerit.
+I am a researcher; researchers fail often but see failure as just another step on the path to discovery.
+***
+My work over the last four years has been focused on my Ph.D. project, "The Future of Work," where I've looked closely at how changes in the way we communicate are reshaping society's move towards remote work and a greater sense of independence and responsibility. This area of study was a big leap from my career in analytics in fintech and the airline industry, which were very structured and command-driven. These contrasting experiences have given me a deeper insight into what makes good productivity and how organizations can work better.
 
 ***
 
 ![Workflow]({{site.baseurl}}/images/09-1.jpg)
 *Photo by [Daniel Romero](https://unsplash.com/@rmrdnl) on Unsplash*
 
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit? Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. Natura sic ab iis investigata est, ut nulla pars caelo, mari, terra, ut poëtice loquar, praetermissa sit; Eadem nunc mea adversum te oratio est. Mihi quidem Homerus huius modi quiddam vidisse videatur in iis, quae de Sirenum cantibus finxerit.
+I've spent a lot of time looking into social media, collecting data, and spotting trends that help us understand the changes in how we work. This research has led to several published papers and will be a key part of my Mobility and the Future of Work thesis. My personal life has been just as varied – I've lived all over the world, embraced living freely without a fixed home, settled down, and become a mom. Each experience has shown me the importance of being flexible, seeing things from different perspectives, and staying true to my values even when everything around me is changing.
 
 ***
 
@@ -24,11 +26,12 @@ In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tar
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
 
-In omni enim arte vel studio vel quavis scientia vel in ipsa virtute optimum quidque rarissimum est. Quod est, ut dixi, habere ea, quae secundum naturam sint, vel omnia vel plurima et maxima. Quodsi ipsam honestatem undique pertectam atque absolutam. Tecum optime, deinde etiam cum mediocri amico. Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari potest. An, partus ancillae sitne in fructu habendus, disseretur inter principes civitatis, P. Ut in geometria, prima si dederis, danda sunt omnia. Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sit conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles. Servari enim iustitia nisi a forti viro, nisi a sapiente potest.
+Research isn't just a job for me; I love to do it. I'm dedicated to learning, growing, and making a difference in the world of work and beyond. I'm a researcher at heart, forever curious and ready to discover new things. Today, I keep pushing boundaries, always ready to take on challenges that seem too tough. 
 
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
 
-Ego quoque, inquit, didicerim libentius si quid attuleris, quam te rephenderim. Iam insipientes alios ita esse, ut nullo modo ad sapientiam possent pervenire, alios, qui possent, si id egissent, sapientiam consequi. Id quaeris, inquam, in quo, utrum respondero, verses te huc atque illuc necesse est. Sed quid ages tandem, si utilitas ab amicitia, ut fit saepe, defecerit? Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod velit quam quod nolit? Quae quidem sapientes sequuntur duce natura tamquam videntes; Quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu sit, id nihil ad nos pertinere omnino. Idne consensisse de Calatino plurimas gentis arbitramur, primarium populi fuisse, quod praestantissimus fuisset in conficiendis voluptatibus? Utram tandem linguam nescio? Quod dicit Epicurus etiam de voluptate, quae minime sint voluptates.
+> The more I experience life, the more I understand that being mistaken about nearly everything is not so bad and that all the effort I've put into proving my beliefs right has only led to wasted time.
+> 
+My path is about embracing and assimilating the vast array of cultural nuances I encounter, weaving them into my own perspective and practices. It's a journey of constant learning, adapting, and evolving, fueled by curiosity and a desire to understand the complex interplay of culture in shaping human experiences and interactions. I continue mowing from the busy streets of Moscow to a calm and structured Stockholm and further to the creative hubs of Lisbon.
 
 ***
 
@@ -36,4 +39,4 @@ Ego quoque, inquit, didicerim libentius si quid attuleris, quam te rephenderim. 
 
 ***
 
-An, partus ancillae sitne in fructu habendus, disseretur inter principes civitatis, P. Ut in geometria, prima si dederis, danda sunt omnia. Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sit conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles. Servari enim iustitia nisi a forti viro, nisi sapiente potest. Tecum optime, deinde etiam cum.
+Such experiences enrich my personal and professional life, allowing me to appreciate the subtleties of cultural differences and similarities. Learning about different perceptions of time, for example, highlights how some cultures prioritize punctuality and efficiency while others value flexibility and the quality of the experience over strict adherence to the clock. Similarly, exploring ways of work reveals the spectrum from individualistic approaches, emphasizing personal achievement and autonomy, to collectivist strategies, where teamwork and community success take precedence.
