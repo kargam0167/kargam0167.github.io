@@ -32,11 +32,5 @@ Research isn't just a job for me; I love to do it. I'm dedicated to learning, gr
 > The more I experience life, the more I understand that being mistaken about nearly everything is not so bad and that all the effort I've put into proving my beliefs right has only led to wasted time.
 > 
 My path is about embracing and assimilating the vast array of cultural nuances I encounter, weaving them into my own perspective and practices. It's a journey of constant learning, adapting, and evolving, fueled by curiosity and a desire to understand the complex interplay of culture in shaping human experiences and interactions. I continue mowing from the busy streets of Moscow to a calm and structured Stockholm and further to the creative hubs of Lisbon.
-
 ***
-
-<p><iframe src="https://player.vimeo.com/video/107654760" width="640" height="360" frameborder="0" allowfullscreen></iframe></p>
-
-***
-
 Such experiences enrich my personal and professional life, allowing me to appreciate the subtleties of cultural differences and similarities. Learning about different perceptions of time, for example, highlights how some cultures prioritize punctuality and efficiency while others value flexibility and the quality of the experience over strict adherence to the clock. Similarly, exploring ways of work reveals the spectrum from individualistic approaches, emphasizing personal achievement and autonomy, to collectivist strategies, where teamwork and community success take precedence.
