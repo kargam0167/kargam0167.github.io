@@ -6,7 +6,7 @@ date:   2023-10-14 15:01:35 +0300
 image:  '/images/04-3.jpg'
 tags:   [workflow, hobby, study]
 ---
-This "odd" hobby has sharpened my sense of risk and taught me to stay completely in the moment, lessons that are unexpectedly valuable in the rapidly changing world. This has occupied my mind for the past four years and has become a core of my Ph.D.
+Pursuing a Ph.D. is like an extreme mental workout—it can either grind you down or build you up, much like my two decades of skydiving. This "odd" hobby has sharpened my sense of risk and taught me to stay completely in the moment, lessons that are unexpectedly valuable in the rapidly changing world. This has occupied my mind for the past four years and has become a core of my Ph.D.
 
 ![Workflow]({{site.baseurl}}/images/2.1.jpg)
 *Photo by [Balkouras Nicos](https://unsplash.com/photos/ncOQxZe8Krw) on [Unsplash](https://unsplash.com/)*
