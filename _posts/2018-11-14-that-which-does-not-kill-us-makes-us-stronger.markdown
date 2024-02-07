@@ -1,21 +1,22 @@
 ---
 layout: post
-title:  That which does not kill us makes us stronger
-description: Sin tantum est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum, empull...
-date:   2018-11-14 15:01:35 +0300
-image:  '/images/02.jpg'
+title:  What doesn't destroy us strengthens us
+description: Pursuing a Ph.D. is like an extreme mental workout—it can either grind you down or build you up, much like my two decades of skydiving. 
+date:   2023-10-14 15:01:35 +0300
+image:  '/images/04-3.jpg'
 tags:   [workflow, hobby, study]
 ---
-Sin tantum est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum, empulla enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit. Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. Natura sic ab iis investigata est, ut nulla pars caelo, mari, terra, ut poëtice loquar, praetermissa sit. Eadem nunc mea adversum te oratio est. Mihi quidem Homerus huius modi quiddam vidisse videatur in iis, quae de Sirenum cantibus ages tandem finxerit.
+This "odd" hobby has sharpened my sense of risk and taught me to stay completely in the moment, lessons that are unexpectedly valuable in the rapidly changing world. This has occupied my mind for the past four years and has become a core of my Ph.D.
 
 ![Workflow]({{site.baseurl}}/images/2.1.jpg)
 *Photo by [Balkouras Nicos](https://unsplash.com/photos/ncOQxZe8Krw) on [Unsplash](https://unsplash.com/)*
 
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit? Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. Natura sic ab iis investigata est, ut nulla pars caelo, mari, terra, ut poëtice loquar, praetermissa sit; Eadem nunc mea adversum te oratio est. Mihi quidem Homerus huius modi quiddam vidisse videatur in iis, quae de Sirenum cantibus finxerit.
+The R&D sector faces instability today, highlighted by significant layoffs at major tech companies such as Google and Amazon. Yet, this period presents an excellent opportunity for self-investment. This approach will likely pay off in a year or two, leading to greater knowledge, financial strength, and resilience. Downturns often prompt a reevaluation of personal finances, encouraging the shedding of unnecessary expenses and a general downsizing in various aspects of life. In the light of the economic downturn, it is important to remember the following:
 
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
+> When actions become about making money, it distorts and destroys the initial action (Simmel 1978)
 
-In omni enim arte vel studio vel quavis scientia vel in ipsa virtute optimum quidque rarissimum est. Quod est, ut dixi, habere ea, quae secundum naturam sint, vel omnia vel plurima et maxima. Quodsi ipsam honestatem undique pertectam atque absolutam. Tecum optime, deinde etiam cum mediocri amico. Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari potest. An, partus ancillae sitne in fructu habendus, disseretur inter principes civitatis, P. Ut in geometria, prima si dederis, danda sunt omnia. Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sit conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles. Servari enim iustitia nisi a forti viro, nisi a sapiente potest.
+This reflection is crucial now more than ever, as the pursuit of wealth can sometimes lead to a departure from our efforts' original passion and purpose, including the noble pursuit of innovation. The impact of uncertainty is evident as long-term job security and linear career paths become relics of the past, replaced by short-term projects and a shifting allegiance from single employers to a broader quest for innovation and personal growth. 
+This mirrors the larger societal shift towards a digital economy, where entrepreneurship and innovation are not just valued but are essential for survival and success. 
 
 <div class="gallery-box">
   <div class="gallery">
@@ -25,6 +26,6 @@ In omni enim arte vel studio vel quavis scientia vel in ipsa virtute optimum qui
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
 
-Ego quoque, inquit, didicerim libentius si quid attuleris, quam te rephenderim. Iam insipientes alios ita esse, ut nullo modo ad sapientiam possent pervenire, alios, qui possent, si id egissent, sapientiam consequi. Id quaeris, inquam, in quo, utrum respondero, verses te huc atque illuc necesse est. Sed quid ages tandem, si utilitas ab amicitia, ut fit saepe, defecerit? Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod velit quam quod nolit? Quae quidem sapientes sequuntur duce natura tamquam videntes; Quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu sit, id nihil ad nos pertinere omnino. Idne consensisse de Calatino plurimas gentis arbitramur, primarium populi fuisse, quod praestantissimus fuisset in conficiendis voluptatibus? Utram tandem linguam nescio? Quod dicit Epicurus etiam de voluptate, quae minime sint voluptates.
+The values and attitudes of individuals within this sector have also shifted, with a greater emphasis on innovation, flexibility, and personal fulfillment. This shift challenges the notion of work as a stable component of one's identity and life, pushing professionals to continuously adapt and reinvent themselves in response to new opportunities and challenges.
 
-An, partus ancillae sitne in fructu habendus, disseretur inter principes civitatis, P. Ut in geometria, prima si dederis, danda sunt omnia. Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sit conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles. Servari enim iustitia nisi a forti viro, nisi sapiente potest. Tecum optime, deinde etiam cum.
+Here is the thing: the story of R&D professionals in the age of uncertainty is one of navigating with innovation and adaptability, embodying the shift from solid to liquid in their work and personal lives. It's a story of transformation, highlighting how we are moving society forward in an era where change is the only constant.
