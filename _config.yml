@@ -15,7 +15,6 @@ author:
 
 social:
 - {icon: "ion-logo-twitter", label: Twitter, link: "https://twitter.com/KarineEhn"}
-- {icon: "ion-logo-researchgate", label: Github, link: "https://www.researchgate.net/profile/Karine-Ehn"}
 - {icon: "ion-logo-github", label: Github, link: "https://www.github.com/kargam0167"}
 # Example of adding a new link to the author section and footer - {icon: "ion-logo-github", label: Github, link: "https://www.researchgate.net/profile/Karine-Ehn"}
 # Other icons can be found at https://ionicons.com/v4/
