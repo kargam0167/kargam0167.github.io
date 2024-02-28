@@ -5,9 +5,7 @@ permalink: /about/
 image: '/images/03.jpg'
 ---
 
-I am a researcher; researchers fail often but see failure as just another step on the path to discovery.
-
-My work over the last four years has been focused on my Ph.D. project, "The Future of Work," where I've looked closely at how changes in the way we communicate are reshaping society's move towards remote work and a greater sense of independence and responsibility. This area of study was a big leap from my career in analytics in fintech and the airline industry, which were very structured and command-driven. These contrasting experiences have given me a deeper insight into what makes good productivity and how organizations can work better.
+Over the last four years, my work has focused on my Ph.D. project, "The Future of Work," where I've looked closely at how we communicate, reshaping society's move towards a greater sense of independence and responsibility. This study area was a giant leap from my structured and command-driven fintech career. These contrasting experiences have given me a deeper insight into what makes me productive and how I can work better.
 
 ***
 
