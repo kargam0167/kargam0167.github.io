@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  If you cannot do great things, do small things in a great way
-description: Sin tantum est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum, empull...
-date:   2018-11-11 15:01:35 +0300
+description: I navigate the complexities of social media's impact on consumer behavior and motivation, which affect online purchase intentions. I collect the data, build user cases, and derive insights from the unstructured text of social channels. 
+date:   2023-12-11 15:01:35 +0300
 image:  '/images/04.jpg'
 tags:   [lifestyle, rest, notes]
 ---
