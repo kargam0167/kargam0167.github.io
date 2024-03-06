@@ -9,10 +9,10 @@ For the past four years, I have been dedicated to my Ph.D. research, which explo
 
 ***
 
-![Workflow]({{site.baseurl}}/images/09-1.jpg)
+![Workflow]({{site.baseurl}}/images/09-1.jpeg)
 
 
-I've spent a lot of time looking into social media, collecting data, and spotting trends that help us understand the changes in how we work. This research has led to several published papers and will be a key part of my Mobility and the Future of Work thesis. My personal life has been just as varied – I've lived all over the world, embraced living freely without a fixed home, settled down, and become a mom. Each experience has shown me the importance of being flexible, seeing things from different perspectives, and staying true to my values even when everything around me is changing.
+I've spent a lot of time looking into social media, collecting data, and spotting trends that help us understand the changes in how we work. This research has led to several published papers and will be a part of my Mobility and the Future of Work thesis. My personal life has been just as varied – I've lived all over the world, embraced living freely without a fixed home, settled down, and become a mom. Each experience has shown me the importance of being flexible, seeing things from different perspectives, and staying true to my values even when everything around me changes.
 
 ***
 
