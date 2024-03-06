@@ -5,12 +5,12 @@ permalink: /about/
 image: '/images/03.jpg'
 ---
 
-Over the last four years, my work has focused on my Ph.D. project, "The Future of Work," where I've looked closely at how we communicate, reshaping society's move towards a greater sense of independence and responsibility. This study area was a giant leap from my structured and command-driven fintech career. These contrasting experiences have given me a deeper insight into what makes me productive and how I can work better.
+For the past four years, I have been dedicated to my Ph.D. research, which explores how the discourse surrounding digital nomads on social media platforms transforms knowledge work, emphasizing greater autonomy and accountability. This academic pursuit significantly departed from my previous position in the airline industry, characterized by a highly structured and hierarchical work environment. The stark contrast between these two experiences gave valuable insights into the factors that drive my productivity and equipped me with strategies to optimize my work performance.
 
 ***
 
 ![Workflow]({{site.baseurl}}/images/09-1.jpg)
-*Photo by [Daniel Romero](https://unsplash.com/@rmrdnl) on Unsplash*
+
 
 I've spent a lot of time looking into social media, collecting data, and spotting trends that help us understand the changes in how we work. This research has led to several published papers and will be a key part of my Mobility and the Future of Work thesis. My personal life has been just as varied – I've lived all over the world, embraced living freely without a fixed home, settled down, and become a mom. Each experience has shown me the importance of being flexible, seeing things from different perspectives, and staying true to my values even when everything around me is changing.
 
