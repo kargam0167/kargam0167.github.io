@@ -5,9 +5,10 @@ permalink: /about/
 image: '/images/03.jpg'
 ---
 
-For the past four years, I have been dedicated to my Ph.D. research, which explores how the discourse surrounding digital nomads on social media platforms transforms knowledge work, emphasizing greater autonomy and accountability. This academic pursuit significantly departed from my previous position in the airline industry, characterized by a highly structured and hierarchical work environment. The stark contrast between these two experiences gave valuable insights into the factors that drive my productivity and equipped me with strategies to optimize my work performance.
+For the past four years, I have been dedicated to my Ph.D. research, which explores how the discourse surrounding digital nomads on social media platforms transforms knowledge work, emphasizing greater autonomy and accountability. 
 
-***
+This academic pursuit significantly departed from my previous position in the airline industry, characterized by a highly structured and hierarchical work environment. The stark contrast between these two experiences gave valuable insights into the factors that drive my productivity and equipped me with strategies to optimize my work performance.
+
 
 ![Workflow]({{site.baseurl}}/images/09-1.jpeg)
 
