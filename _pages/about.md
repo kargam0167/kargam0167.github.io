@@ -10,9 +10,9 @@ Hey there! I am Karine, and I am a data scientist. From defining patterns of con
 
 Today, I am focusing on social media and online forums as data sources. Given the increasing importance of online spaces in shaping our social lives and sense of self, this is a fascinating area of research.
 
-***
+
 > Research isn't just a job; I love it. It's a journey of constant learning, adaptation, and evolution.
-***
+
 
 ![Workflow]({{site.baseurl}}/images/09-1.jpeg)
 
@@ -27,7 +27,7 @@ I've spent much time researching social media, collecting and understanding meta
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
 
-Mowing from the busy streets of Moscow to a calm and structured Stockholm and further to the creative hubs of Lisbon, my path embraces and assimilates the vast cultural nuances I encounter, weaving them into my perspective and practices.  
+As an ex-SAS employee, I am a traveler. From the busy streets of Moscow to a calm and structured Stockholm and further to the creative hubs of Lisbon, my path embraces and assimilates the vast cultural nuances I encounter, weaving them into my perspective and practices.  
 
 
 
