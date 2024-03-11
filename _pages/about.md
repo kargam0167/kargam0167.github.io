@@ -14,7 +14,7 @@ Hey there! I am Karine, a research scientist who works at the intersection of co
 I am currently focusing on social media and online forums as data sources. Given the increasing importance of online spaces in shaping our social lives and sense of self, this is a fascinating area of research.
 
 
-> Data research isn't just a job. It's a constant learning, interpretation, and real-life application journey.
+> Data scientist isn't just a job. It's a constant learning, interpretation, and real-life application journey.
 
 
 ![Workflow]({{site.baseurl}}/images/09-1.jpeg)
