@@ -11,13 +11,13 @@ Hey there! I am Karine, and I am a data scientist. From defining patterns of con
 Today, I am focusing on social media and online forums as data sources. Given the increasing importance of online spaces in shaping our social lives and sense of self, this is a fascinating area of research.
 
 ***
-> Research isn't just a job; I love doing it. It's a constant learning, adapting, and evolving journey.
+> Research isn't just a job; I love it. It's a journey of constant learning, adaptation, and evolution.
 ***
 
 ![Workflow]({{site.baseurl}}/images/09-1.jpeg)
 
 
-I've spent much time researching social media, collecting and understanding metadata, and spotting trends that help us understand behavior changes. This research led to several published papers <a href="https://firstmonday.org/ojs/index.php/fm/article/view/12725/10744>like this one</a>, which later formed my Ph.D. thesis. 
+I've spent much time researching social media, collecting and understanding metadata, and spotting trends that help us understand behavior changes. This research led to several published papers  and formed my Ph.D. thesis. 
 
 <div class="gallery-box">
   <div class="gallery">
