@@ -22,8 +22,8 @@ I've spent four years researching social media, collecting and understanding the
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/09-2.jpg">
-    <img src="/images/09-3.jpg">
+    <img src="/images/09-2.jpg" style="width: 200px; height: auto;">
+    <img src="/images/09-3.jpg" style="width: 200px; height: auto;">
   </div>
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
   <div class="publications">
