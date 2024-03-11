@@ -36,9 +36,9 @@ I've spent four years researching social media, collecting and understanding the
 </div>
 
 
-> Something you should know about me: I am a traveler...
+> Something you should know about me...
 
-From the busy streets of Moscow to a calm and structured Stockholm and further to the creative hubs of Lisbon, my path embraces and assimilates the vast cultural nuances I encounter, weaving them into my perspective and practices.  
+I am a traveler! From the busy streets of Moscow to a calm and structured Stockholm and further to the creative hubs of Lisbon, my path embraces and assimilates the vast cultural nuances I encounter, weaving them into my perspective and practices.  
 
 
 
