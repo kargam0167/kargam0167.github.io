@@ -8,6 +8,8 @@ permalink: /about/
 
 </div>
 
+
+
 Hey there! I am Karine, a research scientist who works at the intersection of communication sciences, social psychology, and data science. 
 
 
