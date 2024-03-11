@@ -11,8 +11,7 @@ Hey there! I am Karine, a research scientist who works at the intersection of co
 I am currently focusing on social media and online forums as data sources. Given the increasing importance of online spaces in shaping our social lives and sense of self, this is a fascinating area of research.
 
 
-> Data research isn't just a job; I love it!
-> It's a constant learning, interpretation, and real-life application journey.
+> Data research isn't just a job. It's a constant learning, interpretation, and real-life application journey.
 
 
 ![Workflow]({{site.baseurl}}/images/09-1.jpeg)
@@ -22,8 +21,8 @@ I've spent four years researching social media, collecting and understanding the
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/09-2.jpg" style="width: 200px; height: auto;">
-    <img src="/images/09-3.jpg" style="width: 200px; height: auto;">
+    <img src="/images/09-2.jpg" style="height: 400px; width: auto;">
+    <img src="/images/09-3.jpg" style="height: 400px; width: auto;">
   </div>
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
   <div class="publications">
@@ -37,8 +36,9 @@ I've spent four years researching social media, collecting and understanding the
 </div>
 
 
+> Something you should know about me: I am a traveler...
 
-Something you should know about me: I am a traveler. From the busy streets of Moscow to a calm and structured Stockholm and further to the creative hubs of Lisbon, my path embraces and assimilates the vast cultural nuances I encounter, weaving them into my perspective and practices.  
+From the busy streets of Moscow to a calm and structured Stockholm and further to the creative hubs of Lisbon, my path embraces and assimilates the vast cultural nuances I encounter, weaving them into my perspective and practices.  
 
 
 
