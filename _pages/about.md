@@ -2,8 +2,11 @@
 layout: page
 title: About
 permalink: /about/
-image: '/images/03.jpg'
 ---
+
+<div style="background-image: url('/images/03.jpg'); background-size: cover; background-position: center bottom; height: 400px;">
+
+</div>
 
 Hey there! I am Karine, a research scientist who works at the intersection of communication sciences, social psychology, and data science. 
 
