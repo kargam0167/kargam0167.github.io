@@ -8,10 +8,10 @@ permalink: /about/
 
 </div>
 
-Hey there! I am Karine, a research scientist who works at the intersection of communication sciences, social psychology, and data science. 
+Hey there! I am Karine, a data scientist who works at the intersection of communication sciences and social psychology. 
 
 
-I am currently focusing on social media and online forums as data sources. Given the increasing importance of online spaces in shaping our social lives and sense of self, this is a fascinating area of research.
+I am currently focusing on social media and online forums as data sources for behavioral research. This is a fascinating area, given the increasing importance of online spaces in shaping our social lives and sense of self.
 
 
 > Data scientist isn't just a job. It's a constant learning, interpretation, and real-life application journey.
@@ -20,7 +20,7 @@ I am currently focusing on social media and online forums as data sources. Given
 ![Workflow]({{site.baseurl}}/images/09-1.jpeg)
 
 
-I've spent four years researching social media, collecting and understanding their metadata, and spotting trends that help us understand behavior changes. This research led to several published papers and formed my Ph.D. thesis in Communication Science. 
+I've spent four years researching social media, collecting and understanding their metadata, and spotting trends that help us understand behavior changes. This research led to several published papers and formed my Ph.D. thesis in Communication Sciences. 
 
 <div class="gallery-box">
   <div class="gallery">
@@ -41,7 +41,7 @@ I've spent four years researching social media, collecting and understanding the
 
 > Something you should know about me...
 
-I am a traveler! From the busy streets of Moscow to a calm and structured Stockholm and further to the creative hubs of Lisbon, my path embraces and assimilates the vast cultural nuances I encounter, weaving them into my perspective and practices.  
+I am a mover! From the busy streets of Moscow to a calm and structured Stockholm and further to the creative hubs of Lisbon, my path embraces and assimilates the vast cultural nuances I encounter, weaving them into my perspective and practices.  
 
 
 
