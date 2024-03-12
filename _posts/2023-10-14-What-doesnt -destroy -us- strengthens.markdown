@@ -4,6 +4,7 @@ title:  What Doesn't Destroy us Strengthens us
 description: How two decades of skydiving influence one's world perception
 date:   2023-11-14 15:01:35 +0300
 ---
+
 Apart from my R&D career, I have skydived for over twenty years. This "weird" activity has taught me profound lessons on risk perception and the art of being utterly present.
 
 ![Workflow]({{site.baseurl}}/images/02-1.jpg)
@@ -11,17 +12,23 @@ Apart from my R&D career, I have skydived for over twenty years. This "weird" ac
 *Photo by [Dea Ludovice](https://www.dealudovice.com/)*
 <div>
 </div>
-The R&D sector faces instability today, highlighted by significant layoffs at major Tech companies. Unemployment in Tech, thus, is a big risk. Yet, this period presents an excellent opportunity for self-investment, and there is a river of opportunities for different courses to understand the business implication of (relatively)new technology of natural language processing. This approach will likely pay off in a year or two, leading to more excellent knowledge, financial strength, and resilience. It's natural to feel a mix of excitement and apprehension. As German sociologist Ulrich Beck insightfully posited:
+Today, the R&D sector faces instability, highlighted by significant layoffs at major Tech companies. Thus, unemployment in Tech is a significant risk. 
+
+Yet, it is an excellent opportunity for self-investment, and there is a river of opportunities to grasp the implication of (relatively) new natural language processing technology at the core of all large language models. 
+
+This approach will likely pay off in a year or two, leading to more excellent knowledge, financial strength, and resilience. As German sociologist Ulrich Beck insightfully posited:
 
 > Risks can manifest as both threats and opportunities. The challenge and the beauty rest in our choices of engagement
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/02-2.jpg" alt="Workflow">
-    <img src="/images/02-3.jpg" alt="Workflow">
+    <img src="/images/09-2.jpg" style="height: 400px; width: auto;">
+    <img src="/images/09-3.jpg" style="height: 400px; width: auto;">
   </div>
-  <em>Photo by [Sammie Chaffin](https://unsplash.com/@sammiechaffin) on [Unsplash](https://unsplash.com/)</em>
 </div>
+
+
+Photo by [Sammie Chaffin](https://unsplash.com/@sammiechaffin) on [Unsplash](https://unsplash.com/)
 
 Diving into the practical aspects of leveraging this knowledge, I'll share a collection of GitHub repositories that have helped me in my work. These resources are a solid foundation for anyone researching social media metadata.
 
