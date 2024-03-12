@@ -2,7 +2,7 @@
 Embracing Change, Seeking Growth, and Finding Harmony
 
 ## Vision
-Experiences in different sectors of the industry, coupled with a strong analytical mindset, seek to re-enter the industry with a renewed vision.
+Experiences and a solid analytical mindset seek to unite the academy and industry.
 
 ## Education
 Applied Communication Science, Ph.D.
