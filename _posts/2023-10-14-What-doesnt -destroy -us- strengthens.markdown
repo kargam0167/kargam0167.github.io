@@ -8,8 +8,9 @@ tags:   [workflow, hobby, study]
 ---
 Apart from my R&D career, I have skydived for over twenty years. This "weird" activity has taught me profound lessons on risk perception and the art of being utterly present.
 
-![Workflow]({{site.baseurl}}/images/2.1.jpg)
-*Photo by [Sammie Chaffin](https://unsplash.com/@sammiechaffin) on [Unsplash](https://unsplash.com/)*
+![Workflow]({{site.baseurl}}/images/02-1.jpg)
+
+*Photo by [Dea Ludovice](https://www.dealudovice.com/)*
 
 The R&D sector faces instability today, highlighted by significant layoffs at major Tech companies. Unemployment in Tech, thus, is a big risk. Yet, this period presents an excellent opportunity for self-investment, and there is a river of opportunities for different courses to understand the business implication of (relatively)new technology of natural language processing. This approach will likely pay off in a year or two, leading to more excellent knowledge, financial strength, and resilience. It's natural to feel a mix of excitement and apprehension. As German sociologist Ulrich Beck insightfully posited:
 
@@ -17,8 +18,8 @@ The R&D sector faces instability today, highlighted by significant layoffs at ma
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/2.2.jpg" alt="Workflow">
-    <img src="/images/2.3.jpg" alt="Workflow">
+    <img src="/images/02-2.jpg" alt="Workflow">
+    <img src="/images/02-3.jpg" alt="Workflow">
   </div>
   <em>Photo by [Sammie Chaffin](https://unsplash.com/@sammiechaffin) on [Unsplash](https://unsplash.com/)</em>
 </div>
