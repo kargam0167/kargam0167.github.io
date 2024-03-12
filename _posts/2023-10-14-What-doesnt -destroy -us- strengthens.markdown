@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  What Doesn't Destroy us Strengthens us
-description: How two decades of skydiving influence one's identity
+description: How two decades of skydiving influence one's world perception
 date:   2023-11-14 15:01:35 +0300
 ---
 <div style="background-image: url('/images/02-1.jpg'); background-size: cover; background-position: center bottom; height: 400px;">
