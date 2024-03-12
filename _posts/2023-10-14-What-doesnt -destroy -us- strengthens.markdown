@@ -3,15 +3,18 @@ layout: post
 title:  What doesn't destroy us strengthens us
 description: How two decades of skydiving influence one's identity
 date:   2023-11-14 15:01:35 +0300
-image:  '/images/04-3.jpg'
-tags:   [workflow, hobby, study]
+<div style="background-image: url('/images/02-1.jpg'); background-size: cover; background-position: center bottom; height: 400px;">
+</div>
+
 ---
 Apart from my R&D career, I have skydived for over twenty years. This "weird" activity has taught me profound lessons on risk perception and the art of being utterly present.
 
 ![Workflow]({{site.baseurl}}/images/02-1.jpg)
 
 *Photo by [Dea Ludovice](https://www.dealudovice.com/)*
-
+<div>
+  
+</div>
 The R&D sector faces instability today, highlighted by significant layoffs at major Tech companies. Unemployment in Tech, thus, is a big risk. Yet, this period presents an excellent opportunity for self-investment, and there is a river of opportunities for different courses to understand the business implication of (relatively)new technology of natural language processing. This approach will likely pay off in a year or two, leading to more excellent knowledge, financial strength, and resilience. It's natural to feel a mix of excitement and apprehension. As German sociologist Ulrich Beck insightfully posited:
 
 > Risks can manifest as both threats and opportunities. The challenge and the beauty rest in our choices of engagement
