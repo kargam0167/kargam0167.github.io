@@ -1,22 +1,19 @@
 ---
 layout: post
 title:  What doesn't destroy us strengthens us
-description: Pursuing a Ph.D. is like an extreme mental workout—it can either grind you down or build you up, much like my two decades of skydiving. 
+description: How two decades of skydiving influence one's identity
 date:   2023-10-14 15:01:35 +0300
 image:  '/images/04-3.jpg'
 tags:   [workflow, hobby, study]
 ---
-Pursuing a Ph.D. is an extreme mental workout — it can either grind you down or build you up, much like experiences from my two decades of skydiving. This "odd" hobby has sharpened my sense of risk and taught me to stay completely in the moment, lessons that are unexpectedly valuable in the rapidly changing world. This has occupied my mind for the past four years and has become a core of my Ph.D.
+Apart from my R&D career, I have been skydiving for more than twenty years. This "weird" activity has taught me two things: profound lessons on risk perception and the art of being utterly present.
 
 ![Workflow]({{site.baseurl}}/images/2.1.jpg)
 *Photo by [Balkouras Nicos](https://unsplash.com/photos/ncOQxZe8Krw) on [Unsplash](https://unsplash.com/)*
 
-The R&D sector faces instability today, highlighted by significant layoffs at major tech companies such as Google and Amazon. Yet, this period presents an excellent opportunity for self-investment. This approach will likely pay off in a year or two, leading to greater knowledge, financial strength, and resilience. Downturns often prompt a reevaluation of personal finances, encouraging the shedding of unnecessary expenses and a general downsizing in various aspects of life. In the light of the economic downturn, it is important to remember the following:
+Today, the R&D sector faces instability, highlighted by significant layoffs at major Tech companies. Unemployment in Tech, thus, is a big risk. Yet, this period presents an excellent opportunity for self-investment, and there is a river of opportunities for different courses to understand the business implication of (relatively)new technology of natural language processing. This approach will likely pay off in a year or two, leading to more excellent knowledge, financial strength, and resilience. It's natural to feel a mix of excitement and apprehension. As German sociologist Ulrich Beck insightfully posited:
 
-> When actions become about making money, it distorts and destroys the initial action (Simmel 1978)
-
-This reflection is crucial now more than ever, as the pursuit of wealth can sometimes lead to a departure from our efforts' original passion and purpose, including the noble pursuit of innovation. The impact of uncertainty is evident as long-term job security and linear career paths become relics of the past, replaced by short-term projects and a shifting allegiance from single employers to a broader quest for innovation and personal growth. 
-This mirrors the larger societal shift towards a digital economy, where entrepreneurship and innovation are not just valued but are essential for survival and success. 
+> Risks can manifest as both threats and opportunities. The challenge and the beauty rest in our choices of engagement
 
 <div class="gallery-box">
   <div class="gallery">
