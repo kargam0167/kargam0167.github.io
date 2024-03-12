@@ -4,6 +4,9 @@ title:  What Doesn't Destroy us Strengthens us
 description: How two decades of skydiving influence one's identity
 date:   2023-11-14 15:01:35 +0300
 ---
+<div style="background-image: url('/images/02-1.jpg'); background-size: cover; background-position: center bottom; height: 400px;">
+
+</div>
 Apart from my R&D career, I have skydived for over twenty years. This "weird" activity has taught me profound lessons on risk perception and the art of being utterly present.
 
 ![Workflow]({{site.baseurl}}/images/02-1.jpg)
