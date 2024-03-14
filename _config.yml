@@ -22,8 +22,8 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Hey, I’m Karine! I am a data scientist with a background in economics.
-  hero__description: I navigate the academic and business worlds to make meaningful research contributions.
+  hero__title: Hey, I’m Karine! I am a data scientist.
+  hero__description: With a background in economics, I navigate the academic and business worlds to make meaningful research contributions.
   hero__image: '/images/01.jpg'
 
 #-------------------------------
