@@ -2,7 +2,7 @@
 layout: post
 title:  If there is a will, there will be a way!
 description: Absolutely anything you put your mind to is possible. If you can dream it - you can do it.
-date:   2023-10-02 15:01:35 +0300
+date:   2023-12-02 10:01:35 +0300
 image:  '/images/07.jpg'
 tags:   [career, airlines, story]
 ---
