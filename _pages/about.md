@@ -14,17 +14,25 @@ Hey there! I am Karine, a data scientist who works at the intersection of commun
 I am currently focusing on social media and online forums as data sources for behavioral research. This is a fascinating area, given the increasing importance of online spaces in shaping our social lives and sense of self.
 
 
-> Data science isn't just a profession. It's a constant learning, interpretation, and real-life application journey.
+> Data science isn't just a profession. It's a constant journey of learning, interpretation, and real-life application.
 
 My career in the industry has the following milestones:
 
-2012-2019: SAS  Stockholm Consumer Insights Analyst Projects: Working with analysis of large datasets and leveraging insights to multiple stakeholders, customer life cycle activities, A/B testing, and scoring.
+2012-2019: Scandinavian Airlines, Stockholm
+Consumer Insights Analyst Projects
+Worked with analysis of large datasets and leveraging insights to multiple stakeholders, customer life cycle activities, A/B testing, and scoring.
 
-2011-2012: SAS (Scandinavian Airlines) Eurobonus, Stockholm Key Account Manager, Loyalty & Partnerships, Working with leading brands such as American Express & MasterCard, conducting business cases & revenue analysis of loyalty solutions
+2011-2012: Scandinavian Airlines EuroBonus, Stockholm
+Key Account Manager, Loyalty & Partnerships
+I have worked with leading brands such as American Express and MasterCard, conducting business cases and revenue analyses of loyalty solutions.
 
-2007-2011: Nordnet Bank AB, Stockholm Consumer Insight Manager Working on customer retaining activities, customer life cycle, segmentation of the target markets, web campaigns, and data analysis. Keen on customer surveys, data-driven communication, target audiences
+2007-2011: Nordnet Bank AB, Stockholm
+Consumer Insight Manager
+I worked on customer retention activities, the customer life cycle, segmentation of the target markets, web campaigns, and data analysis. I was keen on customer surveys, data-driven communication, and target audiences.
 
-2000-2004: XL AB, Stockholm Product Manager CRM solutions, customer support for music retail sales systems Rocks Records and Mix Skivor, web administration
+2000-2004: TXL AB, Stockholm
+Customer Support Manager
+I have worked with CRM solutions, customer support of music retail sales systems Rocks Records and Mix Skivor, and web administration.
 
 ![Workflow]({{site.baseurl}}/images/09-1.jpeg)
 
