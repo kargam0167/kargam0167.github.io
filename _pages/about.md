@@ -19,7 +19,9 @@ I am currently focusing on social media and online forums as data sources for be
 My career in the industry has the following milestones:
 
 2012-2019: Scandinavian Airlines, Stockholm
+<div></div>
 Consumer Insights Analyst Projects
+<div></div>
 Worked with analysis of large datasets and leveraging insights to multiple stakeholders, customer life cycle activities, A/B testing, and scoring.
 
 2011-2012: Scandinavian Airlines EuroBonus, Stockholm
