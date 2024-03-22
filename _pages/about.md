@@ -20,22 +20,22 @@ My career in the industry has the following milestones:
 
 2012-2019: Scandinavian Airlines, Stockholm
 <div></div>
-Consumer Insights Analyst
+As a Consumer Insights Analyst
 I worked with the analysis of large datasets (primarily MS SQL) and leveraged insights to multiple stakeholders and customer life cycle activities, performing A/B testing and activity scoring (churn scoring, purchase power scoring, etc.)
 
 2011-2012: Scandinavian Airlines EuroBonus, Stockholm
 <div></div>
-Key Account Manager, Loyalty & Partnerships
+As a Key Account Manager, Loyalty & Partnerships
 I worked with leading credit card product brands such as American Express and MasterCard, conducting business cases and revenue analyses of their airline cobrand loyalty solutions.
 
 2007-2011: Nordnet Bank AB, Stockholm
 <div></div>
-Consumer Insight Manager
+As a Consumer Insight Manager
 I worked on customer retention activities, the customer life cycle, segmentation of the target markets, web campaigns, and data analysis. I was keen on customer surveys, data-driven communication, and target audiences.
 
 2000-2004: TXL AB, Stockholm
 <div></div>
-Customer Support Manager
+As s Customer Support Manager
 I have worked with CRM solutions, customer support of music retail sales systems Rocks Records and Mix Skivor, and web administration.
 
 ![Workflow]({{site.baseurl}}/images/09-1.jpeg)
