@@ -20,27 +20,33 @@ My career in the industry has the following milestones:
 
 2012-2019: Scandinavian Airlines, Stockholm
 <div></div>
-Consumer Insights Analyst Projects
+Consumer Insights Analyst
 <div></div>
-Worked with analysis of large datasets and leveraging insights to multiple stakeholders, customer life cycle activities, A/B testing, and scoring.
+I worked with the analysis of large datasets (primarily MS SQL) and leveraged insights to multiple stakeholders and customer life cycle activities, performing A/B testing and activity scoring (churn scoring, purchase power scoring, etc.)
 
 2011-2012: Scandinavian Airlines EuroBonus, Stockholm
+<div></div>
 Key Account Manager, Loyalty & Partnerships
-I have worked with leading brands such as American Express and MasterCard, conducting business cases and revenue analyses of loyalty solutions.
+<div></div>
+I worked with leading credit card product brands such as American Express and MasterCard, conducting business cases and revenue analyses of their airline cobrand loyalty solutions.
 
 2007-2011: Nordnet Bank AB, Stockholm
+<div></div>
 Consumer Insight Manager
+<div></div>
 I worked on customer retention activities, the customer life cycle, segmentation of the target markets, web campaigns, and data analysis. I was keen on customer surveys, data-driven communication, and target audiences.
 
 2000-2004: TXL AB, Stockholm
+<div></div>
 Customer Support Manager
+<div></div>
 I have worked with CRM solutions, customer support of music retail sales systems Rocks Records and Mix Skivor, and web administration.
 
 ![Workflow]({{site.baseurl}}/images/09-1.jpeg)
 
-My academic records show I hold an MS in Business Administration from Stockholms University and a Bachelor in International Relationships from Plekhanov Russian Economic Academy.
+As for my academic records, I hold an MS in Business Administration from Stockholms University and a Bachelor in International Relationships from Plekhanov Russian Economic Academy with a Ph.D. in Communication Sciences underway.
 
-Returning to academia in 2019, I spent several years researching social media, collecting and understanding their metadata, and spotting trends that help us understand behavior changes. This research led to several published papers and formed my Ph.D. in Communication Sciences from the Lusofona University of Lisbon. 
+Returning to academia in 2019, I spent several years researching unstructured text on social media (primarily Python 3), collecting and understanding metadata, identifying research questions, and understanding how communication affects behavior changes. This research led to four scientific papers, which formed my Ph.D. in Communication Sciences from the Lusofona University of Lisbon. 
 
 <div class="gallery-box">
   <div class="gallery">
