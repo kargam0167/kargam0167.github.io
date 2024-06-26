@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<div style="background-image: url('/images/03.jpg'); background-size: cover; background-position: center bottom; height: 400px; margin-bottom: 20px;">
+<div style="background-image: url('/images/03-1.jpg'); background-size: cover; background-position: center bottom; height: 400px; margin-bottom: 20px;">
 
 </div>
 
