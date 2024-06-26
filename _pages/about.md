@@ -8,13 +8,15 @@ permalink: /about/
 
 </div>
 
-Hey there! I am Karine, a data scientist who works at the intersection of communication sciences and social psychology. I stand one foot in the academy and another in the industry.
+Hey there! I am Karine, a research scientist who works at the intersection of communication sciences and economics. I stand one foot in the academy and another in the industry.
 
 
-I am currently focusing on social media and online forums as data sources for behavioral research. This is a fascinating area, given the increasing importance of online spaces in shaping our social lives and sense of self.
+I am researching social media platforms and their influence on decision-making and the collective cultural dynamics of niched communities. Given the increasing importance of online spaces in shaping our social lives and sense of self, this is a fascinating area. 
+
+Drawing upon sociology, anthropology, information theory, and complexity science concepts, the study explores how the digital culture evolves through information dissemination, adaptation, and resilience. Cultural dynamics' complex, multi-level nature is emphasised, where small-scale interactions give rise to population-level patterns. 
 
 
-> Data science isn't just a profession. It's a constant journey of learning, interpretation, and real-life application.
+> Researcher isn't just a profession. It's a constant journey of learning, interpretation, and real-life application.
 
 My career in the industry has the following milestones:
 
