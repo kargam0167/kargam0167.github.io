@@ -8,7 +8,7 @@ permalink: /about/
 
 </div>
 
-Hey there! I am Karine, a research scientist who works at the intersection of communication sciences and social psycology. I stand one foot in the academy and another in the industry.
+Hey there! I am Karine, a research scientist who works at the intersection of communication sciences and social psychology. I stand one foot in the academy and another in the industry.
 
 
 I am researching social media platforms and their influence on decision-making and the collective cultural dynamics of niched communities. This is a fascinating area, given the increasing importance of online spaces in shaping our social lives and sense of self. 
@@ -17,6 +17,9 @@ Drawing upon sociology, anthropology, information theory, and complexity science
 
 
 > Researcher isn't just a profession. It's a constant journey of learning, interpretation, and real-life application.
+
+
+Returning to academia in 2019, I spent several years researching unstructured text on social media, collecting and understanding metadata, identifying research questions, and understanding how communication affects behaviour. This research led to three scientific papers, forming my PhD in Communication Sciences from the Lusofona University of Lisbon. 
 
 My career in the industry has the following milestones:
 
@@ -37,14 +40,12 @@ I worked on customer retention activities, the customer life cycle, segmentation
 
 2000-2004: TXL AB, Stockholm
 <div></div>
-As s Customer Support Manager
+As a Customer Support Manager
 I have worked with CRM solutions, customer support of music retail sales systems Rocks Records and Mix Skivor, and web administration.
 
 ![Workflow]({{site.baseurl}}/images/09-1.jpeg)
 
-As for my academic records, I hold an MS in Business Administration from Stockholms University and a Bachelor in International Relationships from Plekhanov Russian Economic Academy with a Ph.D. in Communication Sciences underway.
 
-Returning to academia in 2019, I spent several years researching unstructured text on social media (primarily Python 3), collecting and understanding metadata, identifying research questions, and understanding how communication affects behavior changes. This research led to four scientific papers, which formed my Ph.D. in Communication Sciences from the Lusofona University of Lisbon. 
 
 <div class="gallery-box">
   <div class="gallery">
