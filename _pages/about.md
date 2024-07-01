@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<div style="background-image: url('/images/03-1.jpg'); background-size: contain; background-position: center; height: 800px; background-repeat: no-repeat;">
+<div style="background-image: url('/images/03-1.jpg'); background-size: contain; background-position: center; height: 800px; margin-bottom: 20px; background-repeat: no-repeat;">
 </div>
 
 
