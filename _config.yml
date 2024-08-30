@@ -10,7 +10,7 @@ url: "https://kargam0167.github.io/" # the base hostname & protocol for your sit
 # Author Settings
 author:
   name: Karine Ehn
-  bio: I navigate both the academic and business worlds to make meaningful research contributions that shape communication practices. 
+  Bio: My research bridges theoretical insights from academia with real-world applications in industry. Right now, I am researching TikTok to uncover emerging communication trends and their behavioral implications.
   avatar: '/images/01.jpg'
 
 social:
@@ -23,8 +23,8 @@ social:
 # Hero Settings
 hero:
   hero__title: Hey, I’m Karine!
-  hero__description: I am a research scientist working at the intersection of communication and complex systems sciences. I aim to make meaningful research contributions by navigating the academic and business worlds.
-  hero__image: '/images/01.jpg'
+  hero__description: I am a research scientist focusing on complexity in communication: exploring adaptive behaviors of online communities."
+
 
 #-------------------------------
 # Contact Settings
