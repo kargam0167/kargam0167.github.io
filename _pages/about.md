@@ -13,8 +13,6 @@ I am studying narratives emerging in social conversations online around the neo-
 
 The complexity of digital nomadism's economic, social, and cultural causes may be understood through small-scale conversational interactions that give rise to population-level patterns, particularly when considering generational differences in learning styles, risk perceptions, and the impact of global events like the COVID-19 pandemic.
 
-![Workflow]({{site.baseurl}}/images/09-1.jpeg)
-
 The first work highlights the resilience and adaptability of the digital nomad community in the face of global disruptions. We understand digital nomadism as a complex socio-economic phenomenon that continues to evolve in response to technological advancements. 
 
 The second work extends the timeframe to the post-pandemic period and offers a complementary perspective on the community's engagement patterns and identity transformation on r/Digitalnomad.
