@@ -5,46 +5,21 @@ permalink: /about/
 ---
 <div style="background-image: url('/images/03-1.jpg'); background-size: contain; background-position: center; height: 800px; margin-bottom: 20px; background-repeat: no-repeat;">
 </div>
-
-
-Hey there! I am Karine, a research scientist who works at the intersection of communication sciences and social psychology. I stand one foot in the academy and another in the industry.
-
-
-I am researching social media platforms and their influence on decision-making and the collective cultural dynamics of niched communities. This is a fascinating area, given the increasing importance of online spaces in shaping our social lives and sense of self. 
-
-Drawing upon sociology, anthropology, information theory, and complexity science concepts, the study explores how the digital culture evolves through information dissemination, adaptation, and resilience. Cultural dynamics' complex, multi-level nature is emphasised, where small-scale interactions give rise to population-level patterns. 
-
+I am Karine Ehn, a research scientist exploring the evolving landscape of work and culture in the digital age. My interdisciplinary approach combines communication and complex systems sciences to investigate the phenomenon of digital nomadism and its impact on global work patterns.
 
 > Researcher isn't just a profession. It's a constant journey of learning, interpretation, and real-life application.
 
+I am studying narratives emerging in social conversations online around the neo-nomadic mobile lifestyle that became popularised following the global COVID-19 pandemic. In particular, my study identifies potential causal factors that influence neo-nomadic communities' decision-making and collective cultural dynamics. This research led to three scientific papers, forming my PhD in Communication Sciences.  
 
-Returning to academia in 2019, I spent several years researching unstructured text on social media, collecting and understanding metadata, identifying research questions, and understanding how communication affects behaviour. This research led to three scientific papers, forming my PhD in Communication Sciences from the Lusofona University of Lisbon. 
-
-My career in the industry has the following milestones:
-
-2012-2019: Scandinavian Airlines, Stockholm
-<div></div>
-As a Consumer Insights Analyst
-I worked with the analysis of large datasets (primarily MS SQL) and leveraged insights to multiple stakeholders and customer life cycle activities, performing A/B testing and activity scoring (churn scoring, purchase power scoring, etc.)
-
-2011-2012: Scandinavian Airlines EuroBonus, Stockholm
-<div></div>
-As a Key Account Manager, Loyalty & Partnerships
-I worked with leading credit card product brands such as American Express and MasterCard, conducting business cases and revenue analyses of their airline cobrand loyalty solutions.
-
-2007-2011: Nordnet Bank AB, Stockholm
-<div></div>
-As a Consumer Insight Manager
-I worked on customer retention activities, the customer life cycle, segmentation of the target markets, web campaigns, and data analysis. I was keen on customer surveys, data-driven communication, and target audiences.
-
-2000-2004: TXL AB, Stockholm
-<div></div>
-As a Customer Support Manager
-I have worked with CRM solutions, customer support of music retail sales systems Rocks Records and Mix Skivor, and web administration.
+The complexity of digital nomadism's economic, social, and cultural causes may be understood through small-scale conversational interactions that give rise to population-level patterns, particularly when considering generational differences in learning styles, risk perceptions, and the impact of global events like the COVID-19 pandemic.
 
 ![Workflow]({{site.baseurl}}/images/09-1.jpeg)
 
+The first work highlights the resilience and adaptability of the digital nomad community in the face of global disruptions. We understand digital nomadism as a complex socio-economic phenomenon that continues to evolve in response to technological advancements. 
 
+The second work extends the timeframe to the post-pandemic period and offers a complementary perspective on the community's engagement patterns and identity transformation on r/Digitalnomad.
+
+The third paper focuses on generational differences in learning styles and risk perceptions, particularly among Gen-Z and Millennials, and studies digital nomads communications on TikTok.
 
 <div class="gallery-box">
   <div class="gallery">
@@ -55,8 +30,8 @@ I have worked with CRM solutions, customer support of music retail sales systems
   <div class="publications">
     <h3>Publications</h3>
     <ul>
-      <li><a href="https://journals.sagepub.com/doi/full/10.1177/20563051221084958" target="_blank">My YouTube Paper</a></li>
-      <li><a href="https://firstmonday.org/ojs/index.php/fm/article/view/12725/10744" target="_blank">My Reddit Paper</a></li>
+      <li><a href="https://journals.sagepub.com/doi/full/10.1177/20563051221084958" target="_blank">Digital Nomads and the Covid-19 Pandemic: Narratives About Relocation in a Time of Lockdowns and Reduced Mobility </a></li>
+      <li><a href="https://firstmonday.org/ojs/index.php/fm/article/view/12725/10744" target="_blank">Community identities under perturbation: COVID-19 and the r/digitalnomad subreddit</a></li>
       <!-- Add more publications as needed -->
     </ul>
   </div>
@@ -65,7 +40,7 @@ I have worked with CRM solutions, customer support of music retail sales systems
 
 > Something you should know about me...
 
-I am a mover! From the busy streets of Moscow to a calm and structured Stockholm and further to the creative hubs of Lisbon, my path embraces and assimilates the vast cultural nuances I encounter, weaving them into my perspective and practices.  
+Being a millennial myself, I embraced mobility, which has always been at the core of my life. From the busy streets of Moscow to a calm and structured Stockholm and further to the creative hubs of Lisbon, my path embraces and assimilates the vast cultural nuances I encounter, weaving them into my perspective and practices.  
 
 
 
