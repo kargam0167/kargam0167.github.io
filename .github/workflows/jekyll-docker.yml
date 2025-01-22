@@ -10,16 +10,16 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-    - name: Print GitHub context
-      run: |
-        echo "GITHUB_WORKSPACE: ${{ github.workspace }}"
-        echo "GITHUB_SHA: ${{ github.sha }}"
-        echo "GITHUB_REF: ${{ github.ref }}"
+      - name: Print GitHub context
+        run: |
+          echo "GITHUB_WORKSPACE: ${{ github.workspace }}"
+          echo "GITHUB_SHA: ${{ github.sha }}"
+          echo "GITHUB_REF: ${{ github.ref }}"
 
-    - name: Build the site in the jekyll/builder container
-      run: |
-        docker run \
-        -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
-        jekyll/builder:stable /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future"
+      - name: Build the site in the jekyll/builder container
+        run: |
+          docker run \
+          -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
+          jekyll/builder:4.2.0 /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future"
