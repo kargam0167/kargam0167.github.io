@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 title: Karine Ehn
-logo: "/images/images/02-1.jpg" # You can add own logo. For example '/images/logo.png'.
+logo: "/images/images/02-1.jpg" # You can add your own logo. For example '/images/logo.png'.
 description: Joseph is a super minimal content focus theme for Jekyll.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kargam0167.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
@@ -10,7 +10,7 @@ url: "https://kargam0167.github.io/" # the base hostname & protocol for your sit
 # Author Settings
 author:
   name: Karine Ehn
-  bio:  Digital Nomadism as Emergent and Adaptive Behaviour | Post-Pandemic Society | Cultural Dynamics | TikTok Behavioral Implications.
+  bio: Digital Nomadism as Emergent and Adaptive Behaviour | Post-Pandemic Society | Cultural Dynamics | TikTok Behavioral Implications.
   avatar: '/images/02-3.jpg'
 
 social:
@@ -38,8 +38,7 @@ contact:
   email: karine.ehn@gmail.com # Add your email for the contact form
   description: Drop me a line. # Add a description of your form
 
-# NOTE
-# Joseph comes with a built-in contact form, which you can use with Formspree service to handle up to 50 monthly submissions for free. You could also easily switch to another contact form service if you want.
+# Note: Joseph comes with a built-in contact form, which you can use with Formspree service to handle up to 50 monthly submissions for free. You could also easily switch to another contact form service if you want.
 
 #-------------------------------
 # Google Analytics
