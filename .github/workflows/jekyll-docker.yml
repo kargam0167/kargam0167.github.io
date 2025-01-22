@@ -18,8 +18,8 @@ jobs:
           echo "GITHUB_SHA: ${{ github.sha }}"
           echo "GITHUB_REF: ${{ github.ref }}"
 
-      - name: Build the site in the jekyll/jekyll container
+      - name: Build the site in the jekyll/builder container
         run: |
           docker run \
           -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
-          jekyll/jekyll:4.2.0 /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future"
+          jekyll/builder:stable /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future"
