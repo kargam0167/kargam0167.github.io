@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby '3.1.6'
+ruby '3.1.1'
 gem "bundler"
 gem "jekyll"
 gem "jekyll-paginate"
