@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 title: Karine Ehn
-logo: "/images/logo.png" # You can add own logo. For example '/images/logo.png'.
+logo: "/images/images/02-1.jpg" # You can add own logo. For example '/images/logo.png'.
 description: Joseph is a super minimal content focus theme for Jekyll.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kargam0167.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
@@ -10,8 +10,8 @@ url: "https://kargam0167.github.io/" # the base hostname & protocol for your sit
 # Author Settings
 author:
   name: Karine Ehn
-  bio: My research bridges theoretical insights from academia with real-world applications in industry. Right now, I am researching TikTok to uncover emerging communication trends and their behavioral implications.
-  avatar: '/images/01.jpg'
+  bio:  Digital Nomadism as Emergent and Adaptive Behaviour | Post-Pandemic Society | Cultural Dynamics | TikTok Behavioral Implications.
+  avatar: '/images/02-3.jpg'
 
 social:
   - icon: "ion-logo-twitter"
@@ -30,7 +30,7 @@ social:
 # Hero Settings
 hero:
   title: "Hey, I’m Karine!"
-  description: "I am a research scientist focusing on complexity in communication: exploring adaptive behaviors of online communities."
+  description: "I am a research scientist exploring behaviors in online communities."
 
 #-------------------------------
 # Contact Settings
