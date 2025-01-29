@@ -1,13 +1,11 @@
 ---
 layout: post
-title:  If there is a will, there will be a way!
-description: Absolutely anything you put your mind to is possible. If you can dream it - you can do it.
+title:  Data-Driven Retention Strategy Boosts Amex-SAS Card Member Loyalty.
+description: American Express-SAS EuroBonus Co-Brand Partnership Case Study.
 date:   2023-12-02 10:01:35 +0300
 image:  '/images/07.jpg'
 tags:   [fintech, airlines, research]
 ---
-
-American Express-SAS EuroBonus Co-Brand Partnership Case Study
 The American Express-SAS EuroBonus co-brand card is a loyalty solution that enables EuroBonus members to earn points on everyday spending outside airline transactions. While the program has successfully attracted a large customer base, it faced challenges with inactive customers at risk of churning. This case study outlines a data-driven retention initiative to identify and re-engage at-risk customers early in their churn journey. The initiative targeted inactive EuroBonus co-branded cardholders, leveraging predictive analytics to retain high-value customers. 
 
 ![Work]({{site.baseurl}}/images/07-1.jpg)
