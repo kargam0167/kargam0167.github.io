@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Data-Driven Retention Strategy Boosts Amex-SAS Card Member Loyalty.
+title:  Data-Driven Retention Framework for SAS-AMEX Loyalty Solutions.
 description: American Express-SAS EuroBonus Co-Brand Partnership Case Study.
 date:   2023-12-02 10:01:35 +0300
 image:  '/images/07.jpg'
