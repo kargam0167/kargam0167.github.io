@@ -4,17 +4,33 @@ title:  If there is a will, there will be a way!
 description: Absolutely anything you put your mind to is possible. If you can dream it - you can do it.
 date:   2023-12-02 10:01:35 +0300
 image:  '/images/07.jpg'
-tags:   [career, airlines, story]
+tags:   [fintech, airlines, research]
 ---
-In 2011, after seven years of relentless pursuit, my dream of working at SAS, Scandinavian Airlines, finally began to materialize. Throughout these years, I had engaged in internships, applied for various roles, and even came tantalizingly close to securing a contract, only to be thwarted by the company's annual employee cut-offs. At that time, I was transitioning from a four-year stint as a consumer insight manager at Nordnet, an online stockbroker, to a new role at SEB, the second-largest private bank in Scandinavia. 
+
+American Express-SAS EuroBonus Co-Brand Partnership Case Study
+The American Express-SAS EuroBonus co-brand card is a loyalty solution that enables EuroBonus members to earn points on everyday spending outside airline transactions. While the program has successfully attracted a large customer base, it faced challenges with inactive customers at risk of churning. This case study outlines a data-driven retention initiative to identify and re-engage at-risk customers early in their churn journey. The initiative targeted inactive EuroBonus co-branded cardholders, leveraging predictive analytics to retain high-value customers. 
 
 ![Work]({{site.baseurl}}/images/07-1.jpg)
 *Photo by [Nicolas Nezzo](https://unsplash.com/@nicolasnezzo) on [Unsplash](https://unsplash.com/)*
 
-The deal was sealed, and my start date at SEB was only a month away when an unexpected call from a SAS manager, who had interviewed me over the years, dramatically changed my trajectory. They were explicitly seeking me out for the position of Key Account Manager. This marked the start of my long-held dream becoming a reality, underscoring the eerie truth that sometimes, our deepest dreams have a way of manifesting themselves in the most unexpected moments.
+Objective: To create a series of targeted retention activities based on predictive analytics, enabling early identification of customers likely to churn and implementing tailored communication strategies to retain them.
 
-> If there is a will, there will be a way
+Method: The predictive analytics framework used the following data sources: flight booking patterns on SAS routes, EuroBonus point redemption frequency, and Amex card spending activity
+The churn prediction model was developed using decision trees and synthesized behavioral flags (e.g., reduced point redemption or spending) as early indicators of churn, which predicted churn up to three months in advance.
+Tools Used: MS SQL for database management and analysis, Azure Machine Learning for model training and deployment, Adobe Campaign for executing retention campaigns
 
+> I have conducted predictive analytics and developed a framework for data-driven retention communication
+
+Customer Segmentation: Segmented customers based on churn risk and behavioral traits. Conducted qualitative focus groups with selected customers to define the offer.
+Created tailored communication strategies for each segment, including personalized offers such as bonus points and travel perks.
+
+A/B Testing: Conducted A/B tests to evaluate the effectiveness of communication strategies:
+Group A: Communication with offers (e.g., bonus points or discounts)
+Group B: Communication without offers
+Results varied by segment, highlighting the need for segment-specific strategies.
+ 
+
+Outcomes: 1) Early identification of at-risk customers enabled timely interventions, 2) Enhanced customer lifetime value through personalized engagement, and 3) The project established a scalable framework for using predictive analytics in loyalty program management.
 
 <div class="gallery-box">
   <div class="gallery">
@@ -25,10 +41,5 @@ The deal was sealed, and my start date at SEB was only a month away when an unex
 
 Photo by [Caspar Camille Rubin](https://unsplash.com/@casparrubin) on [Unsplash](https://unsplash.com)
 
-  
-The years that followed my arrival at SAS were a whirlwind of highs and lows, marked by daunting challenges, the looming threat of airline bankruptcy, the thrill of forging new and exciting contacts, the accumulation of a wealth of knowledge, and the challenge of navigating the often rigid hierarchical structure that characterizes the company's decision-making processes.
 
-Working on collaborations with big names like American Express and Mastercard, I learned to conduct business plans, use customer data for new business insights, and push personal boundaries. I felt incredibly proud of my work and considered it the highlight of my career. However, my ambition for a closer look into the airline's tech world led me to transition into data analytics. I built the first central customer database from the fragmented transactional data sources across the organization.
-This shift marked the beginning of a more challenging phase. Learning to code contrasted sharply with my earlier stages of the journey. There were definitely challenging aspects of my career. Yet, the tremendous learning and experiences of data politics and communicating KPIs to various stakeholders made eleven years pass like one. 
 
-I was ready to move on when a sudden opportunity arose in the south of Europe. I joined a computational communication research team at Lusofona University in Lisbon.
