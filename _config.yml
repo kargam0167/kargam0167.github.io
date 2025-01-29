@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 title: Karine Ehn
-logo: '/images/images/02-1.jpg' # You can add your own logo. For example '/images/logo.png'.
+logo: '/images/03.jpg' # You can add your own logo. For example '/images/logo.png'.
 description: Joseph is a super minimal content focus theme for Jekyll.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kargam0167.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
