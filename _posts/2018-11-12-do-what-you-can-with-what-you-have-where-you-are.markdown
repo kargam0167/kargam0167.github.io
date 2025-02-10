@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  Data-Driven Retention Framework for SAS-AMEX Loyalty Solutions.
-description: American Express-SAS EuroBonus Co-Brand Partnership Case Study.
+title:  Customer Retention Framework for SAS-AMEX Loyalty Solutions.
+Description: Insights and framework for a customer retention program at Scandinavian Airlines.
 date:   2023-12-02 10:01:35 +0300
 image:  '/images/07.jpg'
-tags:   [fintech, airlines, research]
+tags:   [retention, airlines, loyalty]
 ---
 The American Express-SAS EuroBonus co-brand card is a loyalty solution that enables EuroBonus members to earn points on everyday spending outside airline transactions. While the program has successfully attracted a large customer base, it faced challenges with inactive customers at risk of churning. This case study outlines a data-driven retention initiative to identify and re-engage at-risk customers early in their churn journey. The initiative targeted inactive EuroBonus co-branded cardholders, leveraging predictive analytics to retain high-value customers. 
 
