@@ -10,8 +10,8 @@ url: "https://kargam0167.github.io/" # the base hostname & protocol for your sit
 # Author Settings
 author:
   name: Karine Ehn
-  bio: Digital Nomadism | Post-Pandemic Society | Cultural Dynamics | Social Media Analyst.
-  avatar: '/images/01-1.jpg'
+  bio: Research Scientist| Future of Work | Mixed Methods.
+  #avatar: '/images/01-1.jpg'
 
 social:
   - icon: "ion-logo-twitter"
@@ -30,7 +30,7 @@ social:
 # Hero Settings
 hero:
   hero__title: Hey, I’m Karine!
-  hero__description: Research Scientist | Collective Action | Probability Modeling | Future of Work | Knowledge Systems Evolution.
+  hero__description: Research Scientist| Future of Work | Mixed Methods.
   hero__image: 'images/01-1.jpg'
 #-------------------------------
 # Contact Settings
