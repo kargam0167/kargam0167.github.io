@@ -5,10 +5,10 @@ permalink: /about/
 ---
 <div style="background-image: url('/images/03-1.jpg'); background-size: contain; background-position: center; height: 800px; margin-bottom: 20px; background-repeat: no-repeat;">
 </div>
-I am a research scientist exploring Work Culture in the Digital Age, using a mixed methods approach to uncover this complex phenomenon. I combine introspection techniques, interviews, and computational methods such as topic modeling and sentiment analysis to capture the "what" and the "why" behind trends.
-<div>
+I am a research scientist exploring work culture in the digital age, using a mixed methods approach to uncover complex phenomena. I combine introspection techniques, interviews, and computational methods such as topic modeling and sentiment analysis to capture the "what" and the "why" behind trends.
+
 > Researcher isn't just a profession. It's a constant journey of learning, interpretation, and real-life application.
-</div>
+
 In particular, I am studying online social platforms and processes emerging on these platforms and physical co-working spaces around the mobile lifestyle. I've included some examples of my scientific work below.
 
 <div class="publications">
@@ -29,21 +29,19 @@ Study of Digital Nomads and Their Online Identity Attributes</a></li>
     </ul>
   </div>
   
-> Something I am fortunate to be a part of: 
+> I am fortunate to be a Generation X: 
 
-As a member of Generation X, I am one of those digital pioneers who transitioned from rotary phones to a world of mobile applications. My journey integrated significant cultural and technological shifts, weaving them into my perspective and practices.
+As one of those digital pioneers who transitioned from rotary phones to a world of the Internet of Things, my journey integrated significant cultural and technological shifts, weaving them into my perspective and practices.
 
 Having witnessed five seismic tech shifts (personal computing → internet → mobile → cloud → AI) and two workplace revolutions (9-5 office culture → remote work → hybrid models), I am embracing innovations that solve concrete problems while maintaining human oversight.
  
 <div class="gallery-box">
   <div class="gallery">
-      <img src="/images/05-2.jpg" style="height: 400px; width: 600px;">
-      <img src="/images/05-1.jpg" style="height: 400px; width: 600px;">
+      <img src="/images/05-2.jpg" alt="Technology">
+      <img src="/images/05-1.jpg" alt="Technology">
     </div>
   </div>  
   <div class="gallery-box">
-  <div class="gallery">
       <em>Photo by <a href="https://unsplash.com/@austindistel?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Austin Distel</a> on <a href="https://unsplash.com/photos/person-using-both-laptop-and-smartphone-tLZhFRLj6nY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></em>
       <em>Photo by <a href="https://unsplash.com/@wesley_squared?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Wesley Hilario</a> on <a href="https://unsplash.com/photos/person-holding-black-rotary-telephone-CNSH-JGEwtI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></em>
-</div>
  </div> 
