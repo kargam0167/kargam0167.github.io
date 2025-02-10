@@ -22,8 +22,10 @@ This article studies YouTube platform content and highlights the resilience and 
   <ul>
       <li><a href="https://firstmonday.org/ojs/index.php/fm/article/view/12725/10744" target="_blank">Community identities under perturbation: COVID-19 and the r/digitalnomad subreddit</a></li>
   </ul>
-  The third paper (forthcoming) is devoted to the TikTok platform and focuses on generational differences in learning styles and risk perceptions, particularly among Gen-Z and Millennials mobile workers.
-    <ul>
+  The third paper (forthcoming) is devoted to the TikTok platform. It focuses on generational differences in learning styles and risk perceptions, particularly among Gen-Z and Millennials mobile workers (digital nomads).
+   <ul>
+      <li><a href="https://www.dpublication.com/wp-content/uploads/2023/05/W29-837.pdf" target="_blank">Algorithmic Influence of TikTok: Mixed Method
+Study of Digital Nomads and Their Online Identity Attributes</li>
     </ul>
   </div>
 > Something I am fortunate to be a part of: 
@@ -34,11 +36,14 @@ Having witnessed five seismic tech shifts (personal computing → internet → m
  
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/05-2.jpg" style="height: 400px; width: auto;">
-    <img src="/images/05-1.jpg" style="height: 400px; width: auto;">
-  </div>
-  <em>Photo by <a href="https://unsplash.com/@wesley_squared?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Wesley Hilario</a> on <a href="https://unsplash.com/photos/person-holding-black-rotary-telephone-CNSH-JGEwtI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+    <img src="/images/05-2.jpg" style="height: 400px; width: 600px;">
+       <em>Photo by <a href="https://unsplash.com/@wesley_squared?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Wesley Hilario</a> on <a href="https://unsplash.com/photos/person-holding-black-rotary-telephone-CNSH-JGEwtI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 </em>
+    <img src="/images/05-1.jpg" style="height: 400px; width: 600px;">
+     <em>Photo by <a href="https://unsplash.com/@austindistel?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Austin Distel</a> on <a href="https://unsplash.com/photos/person-using-both-laptop-and-smartphone-tLZhFRLj6nY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+     </em>
+  </div>
+ 
 </div>
 
 
