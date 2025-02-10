@@ -5,7 +5,7 @@ permalink: /about/
 ---
 <div style="background-image: url('/images/03-1.jpg'); background-size: contain; background-position: center; height: 800px; margin-bottom: 20px; background-repeat: no-repeat;">
 </div>
-I am a research scientist exploring work culture in the digital age, using a mixed methods approach to uncover complex phenomena. I combine introspection techniques, interviews, and computational methods such as topic modeling and sentiment analysis to capture the "what" and the "why" behind trends.
+I am a <b>research scientist</b> exploring <b>work culture</b> in the digital age, using a <b>mixed methods</b> approach to uncover complex phenomena. I combine introspection techniques, interviews, and computational methods such as topic modeling and sentiment analysis to capture the "what" and the "why" behind trends.
 
 > Researcher isn't just a profession. It's a constant journey of learning, interpretation, and real-life application.
 
