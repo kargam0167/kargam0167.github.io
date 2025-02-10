@@ -37,8 +37,8 @@ Having witnessed five seismic tech shifts (personal computing → internet → m
  
 <div class="gallery-box">
   <div class="gallery">
-      <img src="/images/05-2.jpg" alt="Technology"; style="height: 400px;">
-      <img src="/images/05-1.jpg" alt="Technology"; style="height: 400px;">
+      <img src="/images/05-2.jpg" alt="Technology" style="height: 400px;">
+      <img src="/images/05-1.jpg" alt="Technology" style="height: 400px;">
     </div> 
       <em>Photo by <a href="https://unsplash.com/@austindistel?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Austin Distel</a> on <a href="https://unsplash.com/photos/person-using-both-laptop-and-smartphone-tLZhFRLj6nY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></em>
   </div> 
