@@ -6,9 +6,9 @@ permalink: /about/
 <div style="background-image: url('/images/03-1.jpg'); background-size: contain; background-position: center; height: 800px; margin-bottom: 20px; background-repeat: no-repeat;">
 </div>
 I am a research scientist exploring Work Culture in the Digital Age, using a mixed methods approach to uncover this complex phenomenon. I combine introspection techniques, interviews, and computational methods such as topic modeling and sentiment analysis to capture the "what" and the "why" behind trends.
-
+<div>
 > Researcher isn't just a profession. It's a constant journey of learning, interpretation, and real-life application.
-
+</div>
 In particular, I am studying online social platforms and processes emerging on these platforms and physical co-working spaces around the mobile lifestyle. I've included some examples of my scientific work below.
 
 <div class="publications">
@@ -36,14 +36,14 @@ As a member of Generation X, I am one of those digital pioneers who transitioned
 Having witnessed five seismic tech shifts (personal computing → internet → mobile → cloud → AI) and two workplace revolutions (9-5 office culture → remote work → hybrid models), I am embracing innovations that solve concrete problems while maintaining human oversight.
  
 <div class="gallery-box">
-  <div class="gallery" style="display: flex; flex-wrap: wrap;">
-    <div style="margin-right: 20px;">
+  <div class="gallery">
       <img src="/images/05-2.jpg" style="height: 400px; width: 600px;">
-      <em>Photo by <a href="https://unsplash.com/@wesley_squared?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Wesley Hilario</a> on <a href="https://unsplash.com/photos/person-holding-black-rotary-telephone-CNSH-JGEwtI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></em>
-    </div>
-    <div>
       <img src="/images/05-1.jpg" style="height: 400px; width: 600px;">
-      <em>Photo by <a href="https://unsplash.com/@austindistel?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Austin Distel</a> on <a href="https://unsplash.com/photos/person-using-both-laptop-and-smartphone-tLZhFRLj6nY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></em>
     </div>
-  </div>
+  </div>  
+  <div class="gallery-box">
+  <div class="gallery">
+      <em>Photo by <a href="https://unsplash.com/@austindistel?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Austin Distel</a> on <a href="https://unsplash.com/photos/person-using-both-laptop-and-smartphone-tLZhFRLj6nY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></em>
+      <em>Photo by <a href="https://unsplash.com/@wesley_squared?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Wesley Hilario</a> on <a href="https://unsplash.com/photos/person-holding-black-rotary-telephone-CNSH-JGEwtI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></em>
 </div>
+ </div> 
