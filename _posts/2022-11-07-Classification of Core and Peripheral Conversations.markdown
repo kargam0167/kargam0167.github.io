@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Classification of Core and Peripheral Conversations: case study
+title:  Classification of Core and Peripheral Conversations - case study
 Description: 
 date:   2022-11-07 15:01:35 +0300
 image:  '/images/05.jpg'
