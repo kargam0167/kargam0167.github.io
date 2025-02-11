@@ -4,10 +4,10 @@ title:  Classification of Core and Peripheral Conversations - case study
 Description: 
 date:   2022-11-07 15:01:35 +0300
 image:  '/images/05.jpg'
-tags:   [digital nomads, future of work, conversations ]
-published: false
+tags:   [people analytics, future of work, conversations ]
+published: true
 ---
-Want to gain a deeper understanding of how communities evolve and respond to external pressures? Below, I present the ultimate way to study cultural groups undergoing significant changes, e.g., the richness and diversity of their interactions and the outcomes of conversations. 
+Want to gain a deeper understanding of how communities evolve and respond to external pressures? Below, we present the ultimate way to study cultural groups undergoing significant changes, e.g., the richness and diversity of their interactions and the outcomes of conversations. 
 
 This study analyzed core and peripheral conversations related to technological innovation, such as remote work conversations before, during, and after the COVID-19 pandemic. Core conversations typically revolved around essential topics such as visa issues, remote work strategies, and digital nomad lifestyle challenges. These discussions were central to the community's identity and often involved practical advice and shared experiences. Conversely, peripheral conversations included multiple "how-to" recommendations, novel cultural experiences, and personal anecdotes.
 
@@ -39,8 +39,8 @@ By tracking changes in these core and peripheral conversations, people analytics
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/05-4.jpg" alt="Technology">
-    <img src="/images/05-3.jpg" alt="Technology">
+    <img src="/images/05-4.jpg" alt="Technology" width ="600pix">
+    <img src="/images/05-3.jpg" alt="Technology" width ="600pix">
   </div>
   <em>Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">charlesdeluvio</a> on <a href="https://unsplash.com/photos/man-using-macbook-Lks7vei-eAg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></em>
 </div>
