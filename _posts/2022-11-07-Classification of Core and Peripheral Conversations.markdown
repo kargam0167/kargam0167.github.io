@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  Classification of Core and Peripheral Conversations - case study
+title:  Classification of Core and Peripheral Conversations
 Description: 
 date:   2022-11-07 15:01:35 +0300
-image:  '/images/05.jpg'
+image:  '/images/05-5.jpg'
 tags:   [people analytics, future of work, conversations ]
 published: true
 ---
@@ -39,8 +39,8 @@ By tracking changes in these core and peripheral conversations, people analytics
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/05-4.jpg" alt="Technology" width ="600pix">
-    <img src="/images/05-3.jpg" alt="Technology" width ="600pix">
+    <img src="/images/05-4.jpg" alt="Technology">
+    <img src="/images/05-3.jpg" alt="Technology">
   </div>
   <em>Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">charlesdeluvio</a> on <a href="https://unsplash.com/photos/man-using-macbook-Lks7vei-eAg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></em>
 
