@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://kargam0167.github.io//Classification-of-Core-and-Peripheral-Conversations</loc>
+<lastmod>2022-11-07T12:01:35+00:00</lastmod>
+</url>
+<url>
 <loc>https://kargam0167.github.io//about/</loc>
 </url>
 <url>
@@ -8,5 +12,14 @@
 </url>
 <url>
 <loc>https://kargam0167.github.io//</loc>
+</url>
+<url>
+<loc>https://kargam0167.github.io//tag/people-analytics</loc>
+</url>
+<url>
+<loc>https://kargam0167.github.io//tag/future-of-work</loc>
+</url>
+<url>
+<loc>https://kargam0167.github.io//tag/conversations</loc>
 </url>
 </urlset>
