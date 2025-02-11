@@ -26,22 +26,24 @@ As countries opened their borders again around May 2021, there was a considerabl
 
 ![Work]({{site.baseurl}}/images/04-2.jpg)
 *Figure 2. (A) Heat map of monthly interaction counts across topics. (B) Tree map depicting topic
-interaction ratios in the three identified sub-periods (pre-pandemic, lockdown and vaccinated).*
+interaction ratios in the three identified sub-periods (pre-pandemic, lockdown, and vaccinated).*
 
-We believe many new people joined the community, which might have caused conflicts in social norms. This changed how digital nomads saw themselves, which was still happening by the end of 2021.
+Many new people joined the community, which might have caused conflicts in social norms. This changed how digital nomads saw themselves, which was still happening by the end of 2021.
 
-> Conversations shifted to questions like what it means to be a digital nomad and definitions of the lifestyle, habits, and culture.
+> Conversations shifted to questions like being a digital nomad and definitions of the lifestyle, habits, and culture.
 
-In omni enim arte vel studio vel quavis scientia vel in ipsa virtute optimum quidque rarissimum est. Quod est, ut dixi, habere ea, quae secundum naturam sint, vel omnia vel plurima et maxima. Quodsi ipsam honestatem undique pertectam atque absolutam. Tecum optime, deinde etiam cum mediocri amico. Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari potest. An, partus ancillae sitne in fructu habendus, disseretur inter principes civitatis, P. Ut in geometria, prima si dederis, danda sunt omnia. Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sit conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles. Servari enim iustitia nisi a forti viro, nisi a sapiente potest.
+Identifying shifts in core and peripheral topics can help predict how a community might evolve in response to disruptions. This approach can be applied to other online communities or cultural groups undergoing significant changes. For instance, in analyzing core and peripheral conversations in forums related to emerging technologies like AI or blockchain, core conversations might focus on technical developments and applications. In contrast, peripheral discussions could involve speculative future scenarios. Analyzing these conversations could help predict how the community adapts to technological advancements. Such Insights can inform strategic decisions about workforce development, technology adoption, and organizational culture.
+
+<h3>Real Life Applications</h3>
+By tracking changes in these core and peripheral conversations, people analytics teams can predict how the workforce might evolve in response to disruptions, such as technological changes or organizational restructuring.
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/05-2.jpg" alt="Technology">
+    <img src="/images/05-4.jpg" alt="Technology">
     <img src="/images/05-3.jpg" alt="Technology">
   </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
+  <em>Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">charlesdeluvio</a> on <a href="https://unsplash.com/photos/man-using-macbook-Lks7vei-eAg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></em>
 </div>
 
-Identifying shifts in core and peripheral topics can help predict how a community might evolve in response to disruptions. This approach can be applied to other online communities or cultural groups undergoing significant changes. For instance, in analyzing core and peripheral conversations in forums related to emerging technologies like AI or blockchain, core conversations might focus on technical developments and applications. In contrast, peripheral discussions could involve speculative future scenarios. Analyzing these conversations could help predict how the community adapts to technological advancements.
 
-An, partus ancillae sitne in fructu habendus, disseretur inter principes civitatis, P. Ut in geometria, prima si dederis, danda sunt omnia. Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sit conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles. Servari enim iustitia nisi a forti viro, nisi sapiente potest. Tecum optime, deinde etiam cum.
+
