@@ -1,14 +1,13 @@
 ---
 layout: post
-title:  You must be the change you wish to see in the world
-description: Sin tantum est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum, empull...
-date:   2018-11-06 15:01:35 +0300
+title:  Classification of Core and Peripheral Conversations: case study
+Description: 
+date:   2022-11-07 15:01:35 +0300
 image:  '/images/05.jpg'
-tags:   [workflow, hobby]
+tags:   [digital nomads, future of work, conversations ]
 published: false
 ---
-Sin tantum est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum, empulla enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit. Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. Natura sic ab iis investigata est, ut nulla pars caelo, mari, terra, ut poëtice loquar, praetermissa sit. Eadem nunc mea adversum te oratio est. Mihi quidem Homerus huius modi quiddam vidisse videatur in iis, quae de Sirenum cantibus ages tandem finxerit.
-
+To study cultural groups undergoing significant changes, richness, and diversity of their interactions and predict the outcomes. We analyzed core and peripheral conversations related to technological innovation, in this case, working remotely before, during, and after the pandemic. Core conversations typically revolved around essential topics such as visa issues, remote work strategies, and digital nomad lifestyle challenges. These discussions were central to the community's identity and often involved practical advice and shared experiences. Conversely, peripheral conversations included "how-to" recommendations, novel cultural experiences, and personal anecdotes.
 ![Work]({{site.baseurl}}/images/05-1.jpg)
 *Photo by [Daniel Romero](https://unsplash.com/@rmrdnl) on [Unsplash](https://unsplash.com/)*
 
