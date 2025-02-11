@@ -24,7 +24,7 @@ As countries opened their borders again around May 2021, there was a considerabl
 - Constant Interaction Anomalies: People started interacting in unusual ways.
 - New Community Issues: Conversations shifted to questions like being a digital nomad, sharing resources, and dealing with restrictions.
 
-![Work]({{site.baseurl}}/images/04-2.jpg)
+
 *Figure 2. (A) Heat map of monthly interaction counts across topics. (B) Tree map depicting topic
 interaction ratios in the three identified sub-periods (pre-pandemic, lockdown, and vaccinated).*
 
@@ -39,8 +39,8 @@ By tracking changes in these core and peripheral conversations, people analytics
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/05-4.jpg" alt="Technology">
-    <img src="/images/05-3.jpg" alt="Technology">
+    <img src="/images/05-4.jpg" style="height: 400px; width: 600px;">
+    <img src="/images/05-3.jpg" style="height: 400px; width: 600px;">
   </div>
   <em>Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">charlesdeluvio</a> on <a href="https://unsplash.com/photos/man-using-macbook-Lks7vei-eAg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></em>
 
