@@ -7,13 +7,30 @@ image:  '/images/05.jpg'
 tags:   [digital nomads, future of work, conversations ]
 published: false
 ---
-To study cultural groups undergoing significant changes, richness, and diversity of their interactions and predict the outcomes. We analyzed core and peripheral conversations related to technological innovation, in this case, working remotely before, during, and after the pandemic. Core conversations typically revolved around essential topics such as visa issues, remote work strategies, and digital nomad lifestyle challenges. These discussions were central to the community's identity and often involved practical advice and shared experiences. Conversely, peripheral conversations included "how-to" recommendations, novel cultural experiences, and personal anecdotes.
-![Work]({{site.baseurl}}/images/05-1.jpg)
-*Photo by [Daniel Romero](https://unsplash.com/@rmrdnl) on [Unsplash](https://unsplash.com/)*
+Want to gain a deeper understanding of how communities evolve and respond to external pressures? Below, I present the ultimate way to study cultural groups undergoing significant changes, e.g., the richness and diversity of their interactions and the outcomes of conversations. 
 
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit? Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. Natura sic ab iis investigata est, ut nulla pars caelo, mari, terra, ut poëtice loquar, praetermissa sit; Eadem nunc mea adversum te oratio est. Mihi quidem Homerus huius modi quiddam vidisse videatur in iis, quae de Sirenum cantibus finxerit.
+This study analyzed core and peripheral conversations related to technological innovation, such as remote work conversations before, during, and after the COVID-19 pandemic. Core conversations typically revolved around essential topics such as visa issues, remote work strategies, and digital nomad lifestyle challenges. These discussions were central to the community's identity and often involved practical advice and shared experiences. Conversely, peripheral conversations included multiple "how-to" recommendations, novel cultural experiences, and personal anecdotes.
 
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
+<h3>Mixed Method Approach</h3>
+To classify the conversations, we performed content analysis, where we qualitatively coded and reviewed a sample of posts in each period to identify recurring themes and topics.
+Then, we used Stochastic Block Modeling, which treats a collection of texts (posts from a subreddit) as a network. This network is called a bipartite network, which means it has two types of nodes:
+  - Text Nodes represent individual texts or documents (e.g., posts).
+  - Word Nodes: These represent words from the texts.
+
+To make an analogy, imagine being at an after-work gathering with many people talking about different things, and you want to get an overview of the discussions in the room. The algorithm groups people based on the issues they're talking about, and it can show us how these groups are related to each other. This helps to understand what people discuss and how their conversations are connected.
+
+We looked at how people in the digital nomad community on Reddit talked about different topics over time, especially before and during the COVID-19 pandemic. Before the pandemic, the community had a balanced mix of primary and side conversations, and people regularly interacted with each other. When lockdowns started, the community talked more about visa issues because travel was restricted. This was a temporary change.
+As countries opened their borders again around May 2021, there was a considerable increase in interactions. This disrupted the community's identity more significantly than before. We saw two main changes:
+- Constant Interaction Anomalies: People started interacting in unusual ways.
+- New Community Issues: Conversations shifted to questions like being a digital nomad, sharing resources, and dealing with restrictions.
+
+![Work]({{site.baseurl}}/images/04-2.jpg)
+*Figure 2. (A) Heat map of monthly interaction counts across topics. (B) Tree map depicting topic
+interaction ratios in the three identified sub-periods (pre-pandemic, lockdown and vaccinated).*
+
+We believe many new people joined the community, which might have caused conflicts in social norms. This changed how digital nomads saw themselves, which was still happening by the end of 2021.
+
+> Conversations shifted to questions like what it means to be a digital nomad and definitions of the lifestyle, habits, and culture.
 
 In omni enim arte vel studio vel quavis scientia vel in ipsa virtute optimum quidque rarissimum est. Quod est, ut dixi, habere ea, quae secundum naturam sint, vel omnia vel plurima et maxima. Quodsi ipsam honestatem undique pertectam atque absolutam. Tecum optime, deinde etiam cum mediocri amico. Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari potest. An, partus ancillae sitne in fructu habendus, disseretur inter principes civitatis, P. Ut in geometria, prima si dederis, danda sunt omnia. Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sit conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles. Servari enim iustitia nisi a forti viro, nisi a sapiente potest.
 
@@ -25,6 +42,6 @@ In omni enim arte vel studio vel quavis scientia vel in ipsa virtute optimum qui
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
 
-Ego quoque, inquit, didicerim libentius si quid attuleris, quam te rephenderim. Iam insipientes alios ita esse, ut nullo modo ad sapientiam possent pervenire, alios, qui possent, si id egissent, sapientiam consequi. Id quaeris, inquam, in quo, utrum respondero, verses te huc atque illuc necesse est. Sed quid ages tandem, si utilitas ab amicitia, ut fit saepe, defecerit? Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod velit quam quod nolit? Quae quidem sapientes sequuntur duce natura tamquam videntes; Quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu sit, id nihil ad nos pertinere omnino. Idne consensisse de Calatino plurimas gentis arbitramur, primarium populi fuisse, quod praestantissimus fuisset in conficiendis voluptatibus? Utram tandem linguam nescio? Quod dicit Epicurus etiam de voluptate, quae minime sint voluptates.
+Identifying shifts in core and peripheral topics can help predict how a community might evolve in response to disruptions. This approach can be applied to other online communities or cultural groups undergoing significant changes. For instance, in analyzing core and peripheral conversations in forums related to emerging technologies like AI or blockchain, core conversations might focus on technical developments and applications. In contrast, peripheral discussions could involve speculative future scenarios. Analyzing these conversations could help predict how the community adapts to technological advancements.
 
 An, partus ancillae sitne in fructu habendus, disseretur inter principes civitatis, P. Ut in geometria, prima si dederis, danda sunt omnia. Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sit conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles. Servari enim iustitia nisi a forti viro, nisi sapiente potest. Tecum optime, deinde etiam cum.
