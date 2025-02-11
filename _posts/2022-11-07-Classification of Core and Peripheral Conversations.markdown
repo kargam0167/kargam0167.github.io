@@ -39,7 +39,7 @@ By tracking changes in these core and peripheral conversations, people analytics
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/05-4.jpg" style="height: 400px; width: 600px;">
+    <img src="/images/05-4.jpg" style="height: 300px; width: 600px;">
     <img src="/images/05-3.jpg" style="height: 300px; width: 600px;">
   </div>
   <em>Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">charlesdeluvio</a> on <a href="https://unsplash.com/photos/man-using-macbook-Lks7vei-eAg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></em>
