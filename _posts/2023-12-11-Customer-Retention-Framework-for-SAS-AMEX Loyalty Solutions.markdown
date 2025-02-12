@@ -35,7 +35,7 @@ Outcomes:
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/07-2.jpg" alt="Rest">
+    <img src="/images/07-1.jpg" alt="Rest">
     <img src="/images/07-3.jpg" alt="Rest">
   </div>
   <em>Photo by [Caspar Camille Rubin](https://unsplash.com/@casparrubin) on [Unsplash](https://unsplash.com)</em>
