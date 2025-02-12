@@ -1,16 +1,14 @@
 #-------------------------------
 # General Site Settings
 title: Karine Ehn
-logo: "" #'/images/03.jpg' You can add your own logo. For example '/images/logo.png'.
-description: Joseph is a super minimal content focus theme for Jekyll.
-baseurl: "" # the subpath of your site, e.g. /blog
+description: Research Scientist| Future of Work | Mixed Methods.
 url: "https://kargam0167.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # Author Settings
 author:
   name: Karine Ehn
-  bio: Research Scientist| Future of Work | Mixed Methods.
+  bio: Research Scientist| Future of Work | Mixed Methods. Check out my portfolio below ⬇
   avatar: '/images/01-1.jpg'
 
 social:
@@ -31,7 +29,6 @@ social:
 hero:
   hero__title: Hey, I’m Karine!
   hero__description: Research Scientist| Future of Work | Mixed Methods.
-  Check out some of my works below!
   hero__image: 'images/01-1.jpg'
 #-------------------------------
 # Contact Settings
