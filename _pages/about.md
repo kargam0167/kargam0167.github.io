@@ -29,7 +29,7 @@ Study of Digital Nomads and Their Online Identity Attributes</a></b></li>
     </ul>
   </div>
   
-> I am fortunate to be a Generation X: 
+> I am fortunate to be a Generation X 
 
 As one of those digital pioneers who transitioned from rotary phones to a world of the Internet of Things, my journey integrated significant cultural and technological shifts, weaving them into my perspective and practices.
 
