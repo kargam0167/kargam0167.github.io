@@ -1,14 +1,14 @@
 #-------------------------------
 # General Site Settings
 title: Karine Ehn
-description: Research Scientist| Future of Work | Mixed Methods.
+description: Research Scientist| Loyalty Solutions | Mixed Methods.
 url: "https://kargam0167.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # Author Settings
 author:
   name: Karine Ehn
-  bio: Research Scientist| Future of Work | Mixed Methods.
+  bio: Research Scientist| Loyalty Solutions | Mixed Methods.
   avatar: '/images/01-1.jpg'
 
 social:
@@ -28,7 +28,7 @@ social:
 # Hero Settings
 hero:
   hero__title: Hey, I’m Karine!
-  hero__description: Research Scientist| Future of Work | Mixed Methods. Check out my portfolio below ⬇
+  hero__description: Research Scientist| Loyalty Solutions | Mixed Methods. Check out my portfolio below ⬇
   hero__image: 'images/01-1.jpg'
 #-------------------------------
 # Contact Settings
