@@ -1,15 +1,17 @@
 ---
 layout: post
-title:  What Doesn't Destroy us Strengthens us
-description: How two decades of skydiving influence my world perception
+title:  Predictive engine for cultural exchange
+description: Mapping the cultural DNA of travel movements
 date:   2025-11-14 15:01:35 +0300
 ---
 
 ![Workflow]({{site.baseurl}}/images/02-1.jpg)
 
-*Photo by [Dea Ludovice](https://www.dealudovice.com/)*
 
-> Risks can manifest as both threats and opportunities. The challenge and the beauty rest in our choices
+> TikTok-style videos shape how people imagine places and move through them. A hashtag network (and its clusters) can be read as a public “map of attention,” showing not only destinations but the values bundled with them—sustainability talk, housing aesthetics, self-optimization, or community care.
+> At the macro level, use the map to visualize the distinct narratives that drive global mobility. The motivation for a nomad moving to the Global South often differs entirely from one moving within the Global North or to the "Global East"
+> At the meso level, the visualization reveals the formation of new hubs before they appear in mainstream travel guides. You are looking for the "bridge" hashtags that connect established hubs (like Bali or Lisbon) to emerging ones (like Tirana or Medellin).
+> At the micro level, the visualization tracks the "packaging" of lifestyle, possible buy into an "imaginary" of such lifestyle,  signaled by specific visual tropes on TikTok (e.g., "cottagecore" in the UK vs. "industrial minimalism" in Berlin).
 
 <div class="gallery-box">
   <div class="gallery">
@@ -21,9 +23,3 @@ date:   2025-11-14 15:01:35 +0300
 
 Photo by [Sammie Chaffin](https://unsplash.com/@sammiechaffin) on [Unsplash](https://unsplash.com/)
 
-Unrelated to skydiving, below is a collection of GitHub repositories that have helped me in my work. These resources are a solid foundation for anyone researching social media metadata.
-
-- Explore [engaging materials](https://github.com/f/awesome-chatgpt-prompts) to enhance prompt engineering learning
-- Extract [scientific information](https://github.com/nhaouari/papersnap) from papers and create mindmaps
-- Analyze [conversational patterns](https://github.com/bdfsaraiva/parshift) for studying online community structures
-- Discover [method](https://github.com/facebookresearch/jepa/blob/main) for self-supervised learning of visual representations from video
