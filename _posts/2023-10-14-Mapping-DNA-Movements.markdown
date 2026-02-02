@@ -2,7 +2,9 @@
 layout: post
 title:  Predictive engine for cultural exchange
 description: Mapping the cultural DNA of travel movements
+tags:   [TikTok, Community, Culture, Graph]
 date:   2025-11-14 15:01:35 +0300
+published: True
 ---
 
 ![Workflow]({{site.baseurl}}/images/10-1.jpg)
