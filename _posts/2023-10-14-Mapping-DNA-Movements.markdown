@@ -27,6 +27,8 @@ Finally, I read those communities through a destination lens. When a destination
 
 - At the micro level, the visualization tracks the “packaging” of lifestyle, possibly by entering into an “imaginary” of it, signaled by specific visual tropes on TikTok.
 
+This is an ongoing project exploring how digital nomad “cultures” show up in mobility patterns. For now, consider this my <a href="https://hashtag-network-analysis.onrender.com">sandbox</a>, where I test methods, map emerging communities, and iterate on the story the data is starting to tell.
+
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/10.jpg" style="height: 400px; width: auto;">
