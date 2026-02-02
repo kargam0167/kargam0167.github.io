@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 title: Karine Ehn
-description: Research Scientist| Cultural Dynamics | Mixed Methods.
+description: Research Scientist| Big & Small Data | Mixed Methods.
 url: "https://kargam0167.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
@@ -28,7 +28,7 @@ social:
 # Hero Settings
 hero:
   hero__title: Hey, I’m Karine!
-  hero__description: Research Scientist| Cultural Dynamics | Big & Small Data | Mixed Methods. Check out my portfolio below ⬇
+  hero__description: Research Scientist| Big & Small Data | Mixed Methods. Check out my portfolio below ⬇
   hero__image: 'images/02.jpg'
 #-------------------------------
 # Contact Settings
