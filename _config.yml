@@ -9,7 +9,7 @@ url: "https://kargam0167.github.io/" # the base hostname & protocol for your sit
 author:
   name: Karine Ehn
   bio: Research Scientist| Big & Small Data | Mixed Methods.
-  avatar: '/images/02.jpg'
+  avatar: '/images/03.jpg'
 
 social:
   - icon: "ion-logo-twitter"
@@ -29,7 +29,7 @@ social:
 hero:
   hero__title: Hey, I’m Karine!
   hero__description: Research Scientist| Big & Small Data | Mixed Methods. Check out my portfolio below ⬇
-  hero__image: 'images/02.jpg'
+  hero__image: 'images/03.jpg'
 #-------------------------------
 # Contact Settings
 contact:
