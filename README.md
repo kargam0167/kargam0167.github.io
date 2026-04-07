@@ -1,5 +1,5 @@
 # Research Scientist
-PhD Researcher | Digital Nomadism as Emergent and Adaptive Behaviour | Post-Pandemic Society | Cultural Dynamics
+PhD |  Researcher | Big & Small Data| Post-Pandemic Society | Cultural Dynamics
 
 # Education
 Applied Communication Science, Ph.D.
@@ -10,6 +10,8 @@ Business Administration, MPhil.
 [Social Media & Society: Digital Nomads and the Covid-19 Pandemic](https://journals.sagepub.com/doi/full/10.1177/20563051221084958)
 
 [First Monday: Community Identities Under Perturbation](https://firstmonday.org/ojs/index.php/fm/article/view/12725/10744)
+
+[Frontiers in Computer Science: Amplified selves, elusive collectives: the paradox of digital nomadism on TikTok](https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2026.1718218/full)
 
 #  Experience
 -SAS (Scandinavian Airlines) Stockholm
