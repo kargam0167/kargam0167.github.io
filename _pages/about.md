@@ -3,13 +3,12 @@ layout: page
 title: About
 permalink: /about/
 ---
-<div style="background-image: url('/images/03-1.jpg'); background-size: contain; background-position: center; height: 800px; margin-bottom: 20px; background-repeat: no-repeat;">
+<div style="background-image: url('/images/ALX_6183-Edit_low_res.jpg'); background-size: contain; background-position: center; height: 800px; margin-bottom: 20px; background-repeat: no-repeat;">
 </div>
-I am a <b>research scientist</b> exploring <b>work culture</b> in the digital age, using a <b>mixed methods</b> approach to uncover complex phenomena. I combine introspection techniques, interviews, and computational methods such as topic modeling, sentiment analysis, and network graphs to capture the "what" and the "why" behind trends.
-
+I am a Ph.D. <b>research scientist</b> exploring <b>mobile lifestyles</b> in the digital age, inspired by the theory of complexity and complex adaptive systems. I use mixed methods, with qualitative approaches to study micro-scale processes and quantitative approaches to examine macro processes.
 > Researcher isn't just a profession. It's a constant journey of learning, interpretation, and real-life application.
 
-In particular, I am studying online social platforms and processes emerging on these platforms, and physical co-working spaces around the mobile lifestyle. I've included some examples of my scientific work below.
+In particular, I am studying online social platforms and lifestyle narratives emerging on platforms. I've included some examples of my scientific work below.
 
 <div class="publications">
     <h3>Publications</h3>
@@ -22,7 +21,7 @@ This article is built on Reddit platform data, which extends the timeframe to th
     <ul>
       <li><b><a href="https://firstmonday.org/ojs/index.php/fm/article/view/12725/10744" target="_blank">Community identities under perturbation: COVID-19 and the r/digitalnomad subreddit</a></b></li>
   </ul>
-  The third paper (soon to be published) is devoted to the TikTok platform. This study examines the construction of collective identity among digital nomads on TikTok, foregrounding how psychological needs from Maslow's hierarchy are selectively projected through the platform's affordances.
+  The third paper is devoted to the macro processes happening at scale on the TikTok platform. This study examines the construction of collective identity, foregrounding how projected Maslow's psychological needs diminish potential for collective action.
    <ul>
       <li><b><a href="https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2026.1718218/abstract" target="_blank">Amplified Selves, Elusive Collectives: The Paradox of Digital Nomadism on TikTok</a></b></li>
     </ul>
@@ -30,7 +29,7 @@ This article is built on Reddit platform data, which extends the timeframe to th
   
 > I am fortunate to be a Generation X 
 
-As one of those digital pioneers who transitioned from rotary phones to a world of the Internet of Things, my journey integrated significant cultural and technological shifts, weaving them into my perspective and practices.
+As one of the early adopters who moved from rotary phones to the Internet of Things, my journey has integrated significant cultural and technological shifts into my perspective and practices.
 
 Having witnessed five seismic tech shifts (personal computing → internet → mobile → cloud → AI) and two workplace revolutions (9-5 office culture → remote work → hybrid models), I am embracing innovations that solve concrete problems while maintaining human oversight.
  
