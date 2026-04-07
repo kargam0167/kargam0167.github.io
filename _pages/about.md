@@ -21,6 +21,7 @@ This article is built on Reddit platform data, which extends the timeframe to th
     <ul>
       <li><b><a href="https://firstmonday.org/ojs/index.php/fm/article/view/12725/10744" target="_blank">Community identities under perturbation: COVID-19 and the r/digitalnomad subreddit</a></b></li>
   </ul>
+  
   The third paper is devoted to the macro processes happening at scale on the TikTok platform. This study examines the construction of collective identity, foregrounding how projected Maslow's psychological needs diminish potential for collective action.
    <ul>
       <li><b><a href="https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2026.1718218/abstract" target="_blank">Amplified Selves, Elusive Collectives: The Paradox of Digital Nomadism on TikTok</a></b></li>
