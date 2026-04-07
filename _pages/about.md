@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<div style="background-image: url('/images/ALX_6183-Edit_low_res.jpg'); background-size: contain; background-position: center; height: 800px; margin-bottom: 20px; background-repeat: no-repeat;">
+<div style="background-image: url('/images/ALX_6198-Edit_low_res.jpg'); background-size: contain; background-position: center; height: 800px; margin-bottom: 20px; background-repeat: no-repeat;">
 </div>
 I am a Ph.D. <b>research scientist</b> exploring <b>mobile lifestyles</b> in the digital age, inspired by the theory of complexity and complex adaptive systems. I use mixed methods, with qualitative approaches to study micro-scale processes and quantitative approaches to examine macro processes.
 > Researcher isn't just a profession. It's a constant journey of learning, interpretation, and real-life application.
