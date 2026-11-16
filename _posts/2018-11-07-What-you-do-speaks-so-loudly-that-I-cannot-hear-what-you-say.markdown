@@ -1,22 +1,22 @@
 ---
 layout: post
-title:  What you do speaks so loudly that I cannot hear what you say
-description: Sin tantum est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum, empull...
-date:   2018-11-07 15:01:35 +0300
+title:  Teaching Culture in a Human-Computer Interaction 
+description: Culture as input and output: shared meanings travel through infrastructure, visibility, practice, and data, and return reinforced.
+date:   2026-11-07 15:01:35 +0300
 image:  '/images/08.jpg'
-tags:   [travel, hobby, notes]
+tags:   [HCI, Culture, Algorithm]
 published: false
 ---
-Sin tantum est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum, empulla enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit. Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. Natura sic ab iis investigata est, ut nulla pars caelo, mari, terra, ut poëtice loquar, praetermissa sit. Eadem nunc mea adversum te oratio est. Mihi quidem Homerus huius modi quiddam vidisse videatur in iis, quae de Sirenum cantibus ages tandem finxerit.
+Together with Social Sciences Master's students at Riga Stradiņš University, we explored algorithms as enactment of our culture. The students' role-play analyses produced what we came to call our mutual finding: algorithmic cultural enactment. More precise that AI conversational outputs perform culture. In their analyses of chatbot responses, students treated model outputs as culturally saturated performances: therapeutic scripts, care routines, genre conventions reproduced with striking fluency.
 
 ![Work]({{site.baseurl}}/images/08-1.jpg)
 *Photo by [Roberto Nickson](https://unsplash.com/@rpnickson) on [Unsplash](https://unsplash.com/)*
 
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit? Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. Natura sic ab iis investigata est, ut nulla pars caelo, mari, terra, ut poëtice loquar, praetermissa sit; Eadem nunc mea adversum te oratio est. Mihi quidem Homerus huius modi quiddam vidisse videatur in iis, quae de Sirenum cantibus finxerit.
+Students probed generative AI system (GPT, Claude, Gemini) through persona role-play, treating its responses as culturally saturated performances: a method that reveals the model's textual performance of culture. The strongest outputs converged on three findings: 1) models reproduce therapeutic positivity: negative emotions were bypassed in favour of commercialised self-care scripts and managerial checklists, reframing structural problems (workplace exploitation, poverty, gendered judgment) as individual matters. Notably, care itself emerged as a learned cultural performance: the model has absorbed the genre of caring, performing concern fluently without situated understanding; 2) models enact sufficient value asymmetries, where contested topics are renamed as "ideological battlegrounds," and conservative positions are reported at a disclaimed third-person remove while progressive ones were inhabited with testimonial warmth, balance itself functioning as a cultural template; 3) personalized systems resisted assigned roles while generic ones complied, confirming that "the algorithm" is multiple. Students' own explanations constituted folk theories, empirical evidence of how users theorize algorithmic culture.
 
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
+> Generative systems are now among the most prolific performers of culture we have — repeating its templates, smoothing its rough edges, and feeding the refined versions back to us.
 
-In omni enim arte vel studio vel quavis scientia vel in ipsa virtute optimum quidque rarissimum est. Quod est, ut dixi, habere ea, quae secundum naturam sint, vel omnia vel plurima et maxima. Quodsi ipsam honestatem undique pertectam atque absolutam. Tecum optime, deinde etiam cum mediocri amico. Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari potest. An, partus ancillae sitne in fructu habendus, disseretur inter principes civitatis, P. Ut in geometria, prima si dederis, danda sunt omnia. Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sit conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles. Servari enim iustitia nisi a forti viro, nisi a sapiente potest.
+When we position the conversational agent as an active co-constructor of meaning, we understand that its ability to shift human meanings through social framing may be exploited for persuasion.Teaching students to read these outputs as cultural performances, rather than as neutral information, may be one of the most important skills an HCI course can offer.
 
 <div class="gallery-box">
   <div class="gallery">
