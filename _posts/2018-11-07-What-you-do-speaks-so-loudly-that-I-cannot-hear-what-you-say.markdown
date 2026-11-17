@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  Teaching Culture in a Human-Computer Interaction 
-description: Culture as input and output: shared meanings travel through infrastructure, visibility, practice, and data, and return reinforced.
-date:   2026-11-07 15:01:35 +0300
-image:  '/images/08.jpg'
-tags:   [HCI, Culture, Algorithm]
+title: "Teaching Culture in Human-Computer Interaction"
+description: "Culture as input and output: shared meanings travel through infrastructure, visibility, practice, and data, and return reinforced."
+date: 2026-11-07 15:01:35 +0300
+image: '/images/08.jpg'
+tags: [HCI, Culture, Algorithm]
 published: false
 ---
 Together with Social Sciences Master's students at Riga Stradiņš University, we explored algorithms as enactment of our culture. The students' role-play analyses produced what we came to call our mutual finding: algorithmic cultural enactment. More precise that AI conversational outputs perform culture. In their analyses of chatbot responses, students treated model outputs as culturally saturated performances: therapeutic scripts, care routines, genre conventions reproduced with striking fluency.
