@@ -143,28 +143,28 @@
     border-radius: 4px;
     color: var(--background-color)-alt;
 
-    &.share__facebook,
-    &.share__twitter {
+    &.share__linkedin,
+    &.share__researchgate {
       transition: $global-transition;
 
       &:hover {
         color: var(--white);
       }
     }
-    &.share__facebook {
+    &.share__linkedin {
       color: var(--white);
-      background: #3b5998;
+      background: #0a66c2;
 
       &:hover {
-        background: #344e86;
+        background: #004182;
       }
     }
-    &.share__twitter {
+    &.share__researchgate {
       color: var(--white);
-      background: #55acee;
+      background: #00ccbb;
 
       &:hover {
-        background: #3ea1ec;
+        background: #00b3a4;
       }
     }
   }
