@@ -28,9 +28,9 @@ This is also a part of my own research on digital representation of taste. The h
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/08-3.jpg" alt="Travel">
-    <img src="/images/08-2.jpg" alt="Travel">
+    <img src="/images/08-3.jpg" alt="Anthropology">
+    <img src="/images/08-2.jpg" alt="Anthropology">
   </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
+  *Phtoto by [Brecht Corbell](https://unsplash.com/@brechtcorbeel) on [Unsplash](https://unsplash.com/)*
 </div>
 If you teach or work on HCI, UX research, or algorithmic systems and want to run a version of this course for your team or programme, get in touch!
