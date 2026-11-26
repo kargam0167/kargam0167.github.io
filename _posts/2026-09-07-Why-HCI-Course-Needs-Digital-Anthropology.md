@@ -27,10 +27,11 @@ This is also a part of my own research on digital representation of taste. The h
 - Treat users' folk theories as data about your system.
 
 <div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/08-3.jpg" alt="Anthropology">
-    <img src="/images/08-2.jpg" alt="Anthropology">
+  <div class="gallery" style="grid-template-columns: 1fr 1fr; align-items: stretch;">
+    <img src="{{site.baseurl}}/images/08-3.jpg" alt="Anthropology" style="width: 100%; height: 100%; aspect-ratio: 16 / 9; object-fit: cover;">
+    <img src="{{site.baseurl}}/images/08-2.jpg" alt="Anthropology" style="width: 100%; height: 100%; aspect-ratio: 16 / 9; object-fit: cover;">
   </div>
-  *Phtoto by [Brecht Corbell](https://unsplash.com/@brechtcorbeel) on [Unsplash](https://unsplash.com/)*
+  <p style="text-align: center; font-size: 14px; line-height: 22px; margin-top: 20px;">Photo by <a href="https://unsplash.com/@brechtcorbeel">Brecht Corbeel</a> on <a href="https://unsplash.com/">Unsplash</a></p>
 </div>
+
 If you teach or work on HCI, UX research, or algorithmic systems and want to run a version of this course for your team or programme, get in touch!
