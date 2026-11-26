@@ -5,7 +5,7 @@ description: "Digital Culture as input and output: shared meanings travel throug
 date: 2026-09-07 15:01:35 +0300
 image: '/images/08.jpg'
 tags: [HCI, Culture, Algorithm]
-published: false
+published: true
 ---
 A Human Computer Interaction course usually starts with studying the interface: a screen, a button, a task, a user trying to get something done. This autumn I taught a master's course at Rīga Stradiņš University, "Anthropology of the Digital: Information, Memory, and Culture", and my main argument is that this starting point is too narrow. Before anyone clicks anything, a culture has already decided what counts as a "user", what counts as "relevant", and what is worth measuring. I think that is the part of HCI that gets studied least, and it is where anthropology helps most.
 
